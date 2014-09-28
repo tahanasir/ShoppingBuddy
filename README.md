@@ -1,7 +1,9 @@
 ShoppingBuddy
 =============
 
-Hack the North - Canada's Largest International Hackathon,
+Hack the North
+
+Canada's Largest International Hackathon,
 Sept 19-21 @ University of Waterloo
 
 Hack Project 
