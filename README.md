@@ -6,7 +6,7 @@ Hack the North
 Canada's Largest International Hackathon,
 Sept 19-21 @ University of Waterloo
 
-Shopping Buddy is a platform to connect two users who want to share promotional discounts. 
+Shopping Buddy is a platform to connect two people who want to share promotional discounts. 
 
 For example: Buy One, Get 50% Off
 
