@@ -10,6 +10,6 @@ Sept 19-21 @ University of Waterloo
 
 -Buy One, Get 50% Off
 
--Open Source HTML5 Script
+Made with an Open Source HTML5 Script
 
-PHP, MySQL, HTML, CSS, Firebase, Twitter API
+PHP, MySQL, HTML5, CSS3, Firebase, Twitter API
