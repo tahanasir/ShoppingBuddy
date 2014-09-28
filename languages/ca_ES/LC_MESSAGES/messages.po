@@ -1,0 +1,2928 @@
+#: String 0
+msgid "from_email"
+msgstr "De"
+
+#: String 1
+msgid "title"
+msgstr "títol"
+
+#: String 2
+msgid "Orders"
+msgstr "Comandes"
+
+#: String 3
+msgid "Newsletters"
+msgstr "Butlletins"
+
+#: String 4
+msgid "From email"
+msgstr "De"
+
+#: String 5
+msgid "description"
+msgstr "descripció"
+
+#: String 6
+msgid "locale"
+msgstr "local"
+
+#: String 7
+msgid "created"
+msgstr "creat"
+
+#: String 8
+msgid "seotitle"
+msgstr "Titol SEO"
+
+#: String 9
+msgid "status"
+msgstr "estat"
+
+#: String 10
+msgid "Menu"
+msgstr "Menú"
+
+#: String 11
+msgid "Social Auth"
+msgstr "Social Auth"
+
+#: String 12
+msgid "User Roles"
+msgstr "Funcions d'usuari"
+
+#: String 13
+msgid "Roles access"
+msgstr "Accés de funcions"
+
+#: String 14
+msgid "Tools"
+msgstr "Eines"
+
+#: String 15
+msgid "Updates"
+msgstr "Actualitzacions"
+
+#: String 16
+msgid "Users"
+msgstr "Usuaris"
+
+#: String 17
+msgid "Advertisement"
+msgstr "Anunci"
+
+#: String 18
+msgid "Settings"
+msgstr "Configuració"
+
+#: String 19
+msgid "General"
+msgstr "General"
+
+#: String 20
+msgid "Payment"
+msgstr "Pagaments"
+
+#: String 21
+msgid "Locale"
+msgstr "Local"
+
+#: String 22
+msgid "From Email"
+msgstr "Des del correu"
+
+#: String 23
+msgid "Delete All Spam?"
+msgstr "Esborrar spam?"
+
+#: String 24
+msgid "Delete All Spam"
+msgstr "Esborrar Spam"
+
+#: String 25
+msgid "Are you sure you want to make it to_top?"
+msgstr "Està segur de posar-ho al_top?"
+
+#: String 26
+msgid "to_top"
+msgstr "al_top"
+
+#: String 27
+msgid "Delete All Unconfirmed"
+msgstr "Esborrar els no confirmats"
+
+#: String 28
+msgid "Delete All Unconfirmed?"
+msgstr "Esborrar els no confirmats?"
+
+#: String 29
+msgid " Unconfirmed"
+msgstr "No confirmat"
+
+#: String 30
+msgid "Delete All Unavailable?"
+msgstr "Esborrar els no disponibles?"
+
+#: String 31
+msgid "Delete All Unavailable"
+msgstr "Esborrar els no disponibles"
+
+#: String 32
+msgid "Delete All"
+msgstr "Esborrar tots"
+
+#: String 33
+msgid "Are you sure you want to make it to top?"
+msgstr "Està segur de promocionar-lo?"
+
+#: String 34
+msgid "Deactivate Featured"
+msgstr "Desactivar destacat"
+
+#: String 35
+msgid "secret"
+msgstr "secret"
+
+#: String 36
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: String 37
+msgid "Email Settings"
+msgstr "Configuració del correu electrònic"
+
+#: String 38
+msgid "You can send a mass email to all active users."
+msgstr "Pot enviar un correu electrònic massiu a tots els usuaris actius."
+
+#: String 39
+msgid "Key"
+msgstr "Clau"
+
+#: String 40
+msgid "Id"
+msgstr "Id"
+
+#: String 41
+msgid "Social Authentication Settings"
+msgstr "Paràmetres de l'autenticació social"
+
+#: String 42
+msgid "Social authentication is only available with premium themes!"
+msgstr "L'autenticació social només està disponible als temes socials"
+
+#: String 43
+msgid "Debug Mode"
+msgstr "Mode de depuració d'errors"
+
+#: String 44
+msgid "Logs"
+msgstr "Registre"
+
+#: String 45
+msgid "PHP Info"
+msgstr "PHP Info"
+
+#: String 46
+msgid "Check the form for errors"
+msgstr "Comprova errors al formulari"
+
+#: String 47
+msgid "You made some mistake"
+msgstr "Ha comès algun error"
+
+#: String 48
+msgid "Advertisement to featured"
+msgstr "Anunci destacat"
+
+#: String 49
+msgid "Advertisement to top"
+msgstr "Promociona l'anunci al top"
+
+#: String 50
+msgid "This email has been considered as spam! We are sorry but we can not send this email."
+msgstr "Aquest correu s'ha considerat Spam, No serà enviat"
+
+#: String 51
+msgid "Message not sent"
+msgstr "Missatge no enviat"
+
+#: String 52
+msgid "Hello, world"
+msgstr "Hola, món"
+
+#: String 53
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 54
+msgid "Application Execution"
+msgstr "Execució d'aplicacions"
+
+#: String 55
+msgid "Your message has been sent"
+msgstr "El teu missatge ha estat enviat"
+
+#: String 56
+msgid " category"
+msgstr "categoria"
+
+#: String 57
+msgid "Order could not be loaded"
+msgstr "la comanda no es pot carregar"
+
+#: String 58
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Anunci publicat. Enhorabona!"
+
+#: String 59
+msgid "Captcha is not correct"
+msgstr "El captcha no és correcte"
+
+#: String 60
+msgid "New profile has been created. Welcome "
+msgstr "El nou perfil ha estat creat. Benvingut"
+
+#: String 61
+msgid "Thank you for subscribing"
+msgstr "Gràcies per subscriure's"
+
+#: String 62
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Anunci registrat, els nostres moderadors el revisaran el més aviat possible. Gràcies!"
+
+#: String 63
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Anunci publicat, però abans has d'activar-lo. Revisi el seu correu electrònic."
+
+#: String 64
+msgid "This post has been considered as spam! We are sorry but we cant publish this advertisement."
+msgstr "Aquest anunci ha estat considerat spam. No serà publicat"
+
+#: String 65
+msgid "Advertisement is published. Congratulations!"
+msgstr "Anunci publicat. Felicitats!"
+
+#: String 66
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "L'anunci ha estat creat, però necessita ser validat abans de ser publicat."
+
+#: String 67
+msgid "Click here if you are not redirected"
+msgstr "Faci clic aquí si la redirecció no es realitza"
+
+#: String 68
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Esperi un moment mentres connectem amb Paypal"
+
+#: String 69
+msgid "Last"
+msgstr "Últim"
+
+#: String 70
+msgid "User Profile"
+msgstr "Perfil de l'usuari"
+
+#: String 71
+msgid "Last Login"
+msgstr "Última connexió"
+
+#: String 72
+msgid " advertisements"
+msgstr "anuncis"
+
+#: String 73
+msgid "Next"
+msgstr "Següent"
+
+#: String 74
+msgid "Previous"
+msgstr "Anterior"
+
+#: String 75
+msgid "Subscriptions"
+msgstr "Subscripcions"
+
+#: String 76
+msgid "Collapse menu"
+msgstr "Amagar menú"
+
+#: String 77
+msgid "How to remove this"
+msgstr "Com esborrar això"
+
+#: String 78
+msgid "First"
+msgstr "Primer"
+
+#: String 79
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 80
+msgid "Download"
+msgstr "Descarregar"
+
+#: String 81
+msgid "Remember password"
+msgstr "Recordar contrasenya"
+
+#: String 82
+msgid "Forgot password?"
+msgstr "Has oblidat la contrasenya?"
+
+#: String 83
+msgid "Remember me"
+msgstr "Recorda'm"
+
+#: String 84
+msgid "Type your password twice"
+msgstr "Escriu la contrasenya dues vegades"
+
+#: String 85
+msgid "Social Login"
+msgstr "Login Xarxes Socials"
+
+#: String 86
+msgid "We do not have any blog post"
+msgstr "No tenim cap post al blog"
+
+#: String 87
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Web en manteniment, Si us plau toni més tard. Gràcies."
+
+#: String 88
+msgid "Frequently Asked Questions"
+msgstr "Preguntes freqüents"
+
+#: String 89
+msgid "We do not have any FAQ"
+msgstr "No tenim FAQ"
+
+#: String 90
+msgid "Unconfirmed Sort"
+msgstr "Ordre no confirmat"
+
+#: String 91
+msgid " Unavailable"
+msgstr "No disponible"
+
+#: String 92
+msgid "Number of images"
+msgstr "Número d'imatges"
+
+#: String 93
+msgid "Number of images displayed"
+msgstr "Nombre d'imatges que es mostren"
+
+#: String 94
+msgid "Parent category"
+msgstr "Categoria pare"
+
+#: String 95
+msgid "parent_category field"
+msgstr "Camp de categoria pare"
+
+#: String 96
+msgid "Advertisement Configuration"
+msgstr "Configuració de la Publicitat"
+
+#: String 97
+msgid "Notify me on new ad"
+msgstr "Notifica'm de nous anunis"
+
+#: String 98
+msgid "Smtp port"
+msgstr "Port SMTP"
+
+#: String 99
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 100
+msgid "Smtp user"
+msgstr "Usuari Smtp"
+
+#: String 101
+msgid "Smtp password"
+msgstr "Contrasenya SMTP"
+
+#: String 102
+msgid "Use parent categories"
+msgstr "Utilitzar categories pare"
+
+#: String 103
+msgid "Ad expiration date"
+msgstr "Data d'expiració de l'anunci"
+
+#: String 104
+msgid "Related ads"
+msgstr "Anuncis relacionats"
+
+#: String 105
+msgid "You can choose if tehres random related ads displayed at the advertisement"
+msgstr "Mostrar anuncis relacionats"
+
+#: String 106
+msgid "Google Maps in Ad"
+msgstr "Google Maps a l'anunci"
+
+#: String 107
+msgid "Displays the google maps in the Ad."
+msgstr "Mostra els mapes de Google en l'anunci."
+
+#: String 108
+msgid "You can choose what ads you want to display in home."
+msgstr "Seleccioni els anuncis a mostrar a la pàgina principal"
+
+#: String 109
+msgid "Advertisements in home"
+msgstr "Anunci a la home"
+
+#: String 110
+msgid "Expire days"
+msgstr "Dies per expirar"
+
+#: String 111
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Després de quants dies un anunci expira. 0 per mai"
+
+#: String 112
+msgid "Days"
+msgstr "Dies"
+
+#: String 113
+msgid "Smtp host"
+msgstr "Servidor SMTP"
+
+#: String 114
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 115
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Vostè ha d'escriure el seu nom de *Disqus per habilitar el servei."
+
+#: String 116
+msgid "Activates FAQ"
+msgstr "Activar Preguntes freqüents"
+
+#: String 117
+msgid "Once set to TRUE, enables FAQ"
+msgstr "TRUE activa les preguntes freqüents"
+
+#: String 118
+msgid "Disqus for FAQ"
+msgstr "Disqus pel FAQ"
+
+#: String 119
+msgid "Disqus for Blog Comments"
+msgstr "Disqus pels comentaris del Blog"
+
+#: String 120
+msgid "Disqus for blog"
+msgstr "Disqus per blog"
+
+#: String 121
+msgid "Include search by description"
+msgstr "Incloure recerca per descripció"
+
+#: String 122
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr "TRUE activa la recerca de mots claus en la descripcó"
+
+#: String 123
+msgid "Activates Blog posting"
+msgstr "Activar Blog posting"
+
+#: String 124
+msgid "Once set to TRUE, enables blog posts"
+msgstr "TRUE activa els posts al blog"
+
+#: String 125
+msgid "Disqus for FAQ Comments"
+msgstr "Disqus pels comentaris del FAQ"
+
+#: String 126
+msgid "Minify CSS/JS"
+msgstr "Minify CSS/JS"
+
+#: String 127
+msgid "Notify email"
+msgstr "Email de les notificacions"
+
+#: String 128
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "E-mail des d'on enviem els correus electrònics, també s'utilitza per a les comunicacions de programari."
+
+#: String 129
+msgid "Email From"
+msgstr "Email de"
+
+#: String 130
+msgid "Smtp active"
+msgstr "Smtp actiu"
+
+#: String 131
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Si vostè necessita enviar molts missatges de correu electrònic amb una alta taxa de lliurament"
+
+#: String 132
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Llista de valors de configuració generals. Canviï els camps d'entrada amb nous valors desitjats"
+
+#: String 133
+msgid "Once set to TRUE, enables minify CSS and JS to speed up your site"
+msgstr "TRUE activa minify CSS i JS per optimitzar la web"
+
+#: String 134
+msgid "Activates Minify CSS/JS"
+msgstr "Activar minify CSS/JS"
+
+#: String 135
+msgid "Email Configuration"
+msgstr "Configuració de correu electrònic"
+
+#: String 136
+msgid "Google map zoom level"
+msgstr "Nivell de zoom del mapa de Google"
+
+#: String 137
+msgid "Zoom level"
+msgstr "nivell de zoom"
+
+#: String 138
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Anuncis destacats es ressaltarà per un nombre determinat de dies."
+
+#: String 139
+msgid "Price for featuring the Ad"
+msgstr "Preu per destacar l'anunci"
+
+#: String 140
+msgid "Pricing"
+msgstr "Preus"
+
+#: String 141
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Quant ha de pagar l'usuari per destacar un anunci"
+
+#: String 142
+msgid "Featured ads"
+msgstr "Anuncis destacats"
+
+#: String 143
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Per favor, asseguri's que està utilitzant una moneda que suporti paypal."
+
+#: String 144
+msgid "The paypal email address where the payments will be sent"
+msgstr "L'adreça de correu electrònic de PayPal, on s'enviaran els pagaments"
+
+#: String 145
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 146
+msgid "Paypal currency"
+msgstr "Moneda Paypal"
+
+#: String 147
+msgid "Currency"
+msgstr "Moneda"
+
+#: String 148
+msgid "Days Featured"
+msgstr "Dies destacats"
+
+#: String 149
+msgid "Featured length"
+msgstr "LLargària destacat"
+
+#: String 150
+msgid "User paypal link"
+msgstr "Link de Paypal"
+
+#: String 151
+msgid "Advertisements"
+msgstr "Anuncis"
+
+#: String 152
+msgid "Spam Sort"
+msgstr "Ordenar spam"
+
+#: String 153
+msgid "Unavailable Sort"
+msgstr "No es pot ordenar"
+
+#: String 154
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Quant ha de pagar un usuari per pujar el seu anunci al principi de la llista."
+
+#: String 155
+msgid "To top price"
+msgstr "Preu per pujar anunci"
+
+#: String 156
+msgid "How many days an ad will be featured after paying."
+msgstr "Quants díes estarà destacat un anunci després de pagar."
+
+#: String 157
+msgid "Bring to top Ad"
+msgstr "Puja l'anunci a la primera pàgina"
+
+#: String 158
+msgid "Brings your Ad to the top of the listing."
+msgstr "Porta el teu anunci a la part superior de la llista."
+
+#: String 159
+msgid "Paypal mail address"
+msgstr "Correu Paypal"
+
+#: String 160
+msgid "Paypal account"
+msgstr "Compte Paypal"
+
+#: String 161
+msgid "Google map default longitude coordinates"
+msgstr "Coordenades per defecte del mapa de Google"
+
+#: String 162
+msgid "Contact form"
+msgstr "Formulari de contacte"
+
+#: String 163
+msgid "Enables Contact Form"
+msgstr "Es permet formulari de contacte"
+
+#: String 164
+msgid "Contact form appears int he ad."
+msgstr "El formulari de contacte es mostra a l''anunci"
+
+#: String 165
+msgid "Longitude coordinates"
+msgstr "Llargària de les coordenades"
+
+#: String 166
+msgid "Map longitude coordinates"
+msgstr "Coordenades de longitut del mapa"
+
+#: String 167
+msgid "Google map default zoom level "
+msgstr "Nivell per defecte del zoom del mapa de google "
+
+#: String 168
+msgid "Map latitude coordinates"
+msgstr "Coordenades de latitut del map"
+
+#: String 169
+msgid "Latitude coordinates"
+msgstr "Coordenades de latitut"
+
+#: String 170
+msgid "Google map default latitude coordinates"
+msgstr "Coordenades de latitut per defecte del mapa de Google"
+
+#: String 171
+msgid "Terms of Service"
+msgstr "Termes de Servei"
+
+#: String 172
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 173
+msgid "Replacement of a banedword"
+msgstr "Substituir un mot prohibit"
+
+#: String 174
+msgid "Baned word replacement replaces selected array with string that you provided."
+msgstr "Mots prohibits que es susitueixen pel mot indicat"
+
+#: String 175
+msgid "Payments Configuration"
+msgstr "Configuració de pagaments"
+
+#: String 176
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Llista dels valors de configuració de pagament. Canviï els camps d'entrada amb nous valors desitjats."
+
+#: String 177
+msgid "Banned words replacement"
+msgstr "Substitució mots prohibits"
+
+#: String 178
+msgid "You need to write your baned words enable the service."
+msgstr "Escrigui les paraules prohibides"
+
+#: String 179
+msgid "Disqus Comments"
+msgstr "Disqus Comentaris"
+
+#: String 180
+msgid "Banned words"
+msgstr "Mots prohibits"
+
+#: String 181
+msgid "Baned words are separated with coma (,)"
+msgstr "Escrigui les paraules prohibides separades per coma (,)"
+
+#: String 182
+msgid "Invalid Email"
+msgstr "Email invàlid"
+
+#: String 183
+msgid "You are unsubscribed"
+msgstr "No està subscrit"
+
+#: String 184
+msgid "Share"
+msgstr "Compartir"
+
+#: String 185
+msgid "Share on social networks."
+msgstr "Compartir a les xarxes socials"
+
+#: String 186
+msgid "Advanced option"
+msgstr "Opció avançada"
+
+#: String 187
+msgid "FALSE"
+msgstr "FALSE"
+
+#: String 188
+msgid "Title displayed"
+msgstr "Títol mostrat"
+
+#: String 189
+msgid "Other"
+msgstr "Altres"
+
+#: String 190
+msgid "Success"
+msgstr "Fet"
+
+#: String 191
+msgid "Environment"
+msgstr "Entorn"
+
+#: String 192
+msgid "Included files"
+msgstr "Arxius inclosos"
+
+#: String 193
+msgid "Loaded extensions"
+msgstr "Extensions carregades"
+
+#: String 194
+msgid "TRUE"
+msgstr "TRUE"
+
+#: String 195
+msgid "Custom fields in search"
+msgstr "Camps personalitzats en la recerca"
+
+#: String 196
+msgid "Maximum Price"
+msgstr "Preu màxim"
+
+#: String 197
+msgid "1000"
+msgstr "1000"
+
+#: String 198
+msgid "Increment Step"
+msgstr "Següent pas"
+
+#: String 199
+msgid "100"
+msgstr "100"
+
+#: String 200
+msgid "0"
+msgstr "0"
+
+#: String 201
+msgid "Minimum Price"
+msgstr "Preu mínim"
+
+#: String 202
+msgid "Subscribe"
+msgstr "Subscriu"
+
+#: String 203
+msgid "Subscribe for categories"
+msgstr "Subscriure's a totes les categories"
+
+#: String 204
+msgid "Subscribe title displayed"
+msgstr "Títol de subscripció mostrat"
+
+#: String 205
+msgid "Info"
+msgstr "Informació"
+
+#: String 206
+msgid "# items to display"
+msgstr "# Articles per mostrar"
+
+#: String 207
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 208
+msgid "Role"
+msgstr "Rol"
+
+#: String 209
+msgid "Last modified"
+msgstr "Última modificació"
+
+#: String 210
+msgid "Last login"
+msgstr "Última sesió"
+
+#: String 211
+msgid "Parent deep"
+msgstr "Pares anteriors"
+
+#: String 212
+msgid "Parent"
+msgstr "Pare"
+
+#: String 213
+msgid "Check form for errors"
+msgstr "El formulari conté errors"
+
+#: String 214
+msgid "Item updated"
+msgstr "Article actualitzat"
+
+#: String 215
+msgid "Access not allowed"
+msgstr "Accés no permès"
+
+#: String 216
+msgid "Some errors in the form"
+msgstr "Hi ha errors en el formulari"
+
+#: String 217
+msgid "User"
+msgstr "Usuari"
+
+#: String 218
+msgid "SEO title"
+msgstr "Títol SEO"
+
+#: String 219
+msgid "search"
+msgstr "Recerca"
+
+#: String 220
+msgid "maintenance"
+msgstr "Manteniment"
+
+#: String 221
+msgid "publish new"
+msgstr "Nou anunci"
+
+#: String 222
+msgid "page"
+msgstr "Pàgina"
+
+#: String 223
+msgid "category"
+msgstr "Categoria"
+
+#: String 224
+msgid "Order"
+msgstr "Comanda"
+
+#: String 225
+msgid "Ip address"
+msgstr "Adreça IP"
+
+#: String 226
+msgid "Has images"
+msgstr "Té imatges"
+
+#: String 227
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Alguna cosa ha sortit malament amb la càrrega d'imatges,  comprovi el format."
+
+#: String 228
+msgid "Add latest comments"
+msgstr "Afegir últims comentaris"
+
+#: String 229
+msgid "Comments"
+msgstr "Comentaris"
+
+#: String 230
+msgid "Display CMS pages"
+msgstr "Mostrar les pàgines del CMS"
+
+#: String 231
+msgid "Page title displayed"
+msgstr "Títol de la pàgina mostrat"
+
+#: String 232
+msgid "RSS"
+msgstr "RSS"
+
+#: String 233
+msgid "RSS reader with cache"
+msgstr "Lector de RSS en memòria cau"
+
+#: String 234
+msgid "Pages"
+msgstr "Pàgines"
+
+#: String 235
+msgid "Chat height in PX"
+msgstr "Alçada del Xat en PX"
+
+#: String 236
+msgid "Chat"
+msgstr "Xat"
+
+#: String 237
+msgid "Add a chat room"
+msgstr "Afegir sala de xat"
+
+#: String 238
+msgid "Chat room"
+msgstr "Salsa de xat"
+
+#: String 239
+msgid "Name of your chat room/channel"
+msgstr "Nom de la sala de xat"
+
+#: String 240
+msgid "Number items to display"
+msgstr "Número d'articles per mostrar"
+
+#: String 241
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Quantes vegades refresquem la RSS, en segons"
+
+#: String 242
+msgid "Parent frame"
+msgstr "Frame pare"
+
+#: String 243
+msgid "views"
+msgstr "Vistes"
+
+#: String 244
+msgid "ads"
+msgstr "Anuncis"
+
+#: String 245
+msgid "users"
+msgstr "Usuaris"
+
+#: String 246
+msgid "New tab or window"
+msgstr "Nova pestanya o finestra"
+
+#: String 247
+msgid "Links title displayed"
+msgstr "Títol dels enllaços mostrat"
+
+#: String 248
+msgid "RSS url address"
+msgstr "Adreça del RSS"
+
+#: String 249
+msgid "RSS title displayed"
+msgstr "Títol RSS mostrat"
+
+#: String 250
+msgid "Links"
+msgstr "Enllaços"
+
+#: String 251
+msgid "Adserum publisher ID"
+msgstr "ID d'anunciant ADserum"
+
+#: String 252
+msgid "Banner Format"
+msgstr "Format del banner"
+
+#: String 253
+msgid "Categories title displayed"
+msgstr "Títol de categoría mostrat"
+
+#: String 254
+msgid "Google Maps with ads"
+msgstr "Google Maps amb anuncis"
+
+#: String 255
+msgid "Map title displayed"
+msgstr "Títol de mapa mostrat"
+
+#: String 256
+msgid "Map height in pixels"
+msgstr "Alçada del mapa en píxels"
+
+#: String 257
+msgid "Display categories"
+msgstr "Mostrar categories"
+
+#: String 258
+msgid "Ads title displayed"
+msgstr "Títol de l'anunci que es mostra"
+
+#: String 259
+msgid "Number of comments to display"
+msgstr "Número de comentaris per mostrar"
+
+#: String 260
+msgid "Ads reader"
+msgstr "Lector d'anuncis"
+
+#: String 261
+msgid "Type ads to display"
+msgstr "Tipus d'anuncis per mostrar"
+
+#: String 262
+msgid "Number of ads to display"
+msgstr "Número d'anuncis per mostrar"
+
+#: String 263
+msgid "Zoom in the map"
+msgstr "Ampliar el mapa"
+
+#: String 264
+msgid "Display site stats"
+msgstr "Mostra estadístiques"
+
+#: String 265
+msgid "HTML/text content here"
+msgstr "Copiar el contingut / text aquí"
+
+#: String 266
+msgid "Display Featured Ads"
+msgstr "Mostra anuncis destacats"
+
+#: String 267
+msgid "Featured title displayed"
+msgstr "Titol visible a destacats"
+
+#: String 268
+msgid "Earn money from your site"
+msgstr "Guanya diners amb la teva web"
+
+#: String 269
+msgid "Text title displayed"
+msgstr "Títol mostrat"
+
+#: String 270
+msgid "HTML textarea"
+msgstr "HTML textarea"
+
+#: String 271
+msgid "Display Locations"
+msgstr "Mostrar ubicacions"
+
+#: String 272
+msgid "Locations title displayed"
+msgstr "Títol de localitzacions mostrat"
+
+#: String 273
+msgid "Text"
+msgstr "Text"
+
+#: String 274
+msgid "Please to see the changes delete the cache"
+msgstr "Per veure els canvis esborri la memòria cau"
+
+#: String 275
+msgid "Item created"
+msgstr "Article creat"
+
+#: String 276
+msgid "Register new user"
+msgstr "Registre nou usuari"
+
+#: String 277
+msgid "Email Configuration updated"
+msgstr "Configuració del correu actualitzada"
+
+#: String 278
+msgid "General Configuration updated"
+msgstr "Configuració general actualitzat"
+
+#: String 279
+msgid "Payments"
+msgstr "Pagaments"
+
+#: String 280
+msgid "Welcome!"
+msgstr "Benvingut!"
+
+#: String 281
+msgid "User already exists"
+msgstr "L'usuari existeix"
+
+#: String 282
+msgid "No Subscriptions"
+msgstr "Sense subscripcions"
+
+#: String 283
+msgid "Wrong email or password"
+msgstr "Email o contrasenya incorrectes"
+
+#: String 284
+msgid "Email to recover password sent"
+msgstr "Email amb la nova contrasenya enviat"
+
+#: String 285
+msgid "User not in database"
+msgstr "L'usuari no existeix a la base de dades"
+
+#: String 286
+msgid "Menu deleted"
+msgstr "Menú esborrat"
+
+#: String 287
+msgid "Menu created"
+msgstr "Menú creat"
+
+#: String 288
+msgid "Database Optimized"
+msgstr "Base de dades optimitzada"
+
+#: String 289
+msgid "All cache deleted"
+msgstr "Memòria cau esborrada"
+
+#: String 290
+msgid "Deleted expired cache"
+msgstr "Memòria cau caducada esborrada"
+
+#: String 291
+msgid "System logs"
+msgstr "Registres del sistema"
+
+#: String 292
+msgid "Optimize DB"
+msgstr "Optimitzar BD"
+
+#: String 293
+msgid "Edit Custom Field for Advertisement"
+msgstr "Editar camp personalitzat de l'anunci"
+
+#: String 294
+msgid "Menu not created"
+msgstr "Menú no creat"
+
+#: String 295
+msgid "Custom Fields for Advertisements"
+msgstr "Camps personalitzats als anuncis"
+
+#: String 296
+msgid "New Custom Field for Advertisement"
+msgstr "Nou camp personalitzat a l'anunci"
+
+#: String 297
+msgid "You dont have permission to access this link"
+msgstr "No tens permís per accedir a aquest enllaç"
+
+#: String 298
+msgid "Advertisement is updated"
+msgstr "Anunci actualizat"
+
+#: String 299
+msgid "Error"
+msgstr "Error"
+
+#: String 300
+msgid "Location deleted"
+msgstr "Ubicació eliminada"
+
+#: String 301
+msgid "Location not deleted"
+msgstr "ubicació no eliminada"
+
+#: String 302
+msgid "Password is changed"
+msgstr "S'ha canviat la contrasenya"
+
+#: String 303
+msgid "Saved"
+msgstr "Guardat"
+
+#: String 304
+msgid "Map"
+msgstr "Mapa"
+
+#: String 305
+msgid "Default theme seted"
+msgstr "Tema per defecte fixat"
+
+#: String 306
+msgid "Latest published"
+msgstr "Darrers publicats"
+
+#: String 307
+msgid "Latest post published"
+msgstr "Últimes publicacions"
+
+#: String 308
+msgid " Frequently Asked Questions - FAQ"
+msgstr "Preguntes freqüents - FAQ"
+
+#: String 309
+msgid "Nothing is provided"
+msgstr "Falten dades"
+
+#: String 310
+msgid "Passwords do not match"
+msgstr "Les contrasenyes no coincideixen"
+
+#: String 311
+msgid "Advertisement is deactivated"
+msgstr "Anunci desactivat"
+
+#: String 312
+msgid "Advertisement is active and published"
+msgstr "Anunci actiu i publicat"
+
+#: String 313
+msgid "Edit advertisement"
+msgstr "Editar anunci"
+
+#: String 314
+msgid "Advertisement is updated!"
+msgstr "Anunci actualizat!"
+
+#: String 315
+msgid "This is not your advertisement."
+msgstr "Aquest anunci no és teu"
+
+#: String 316
+msgid "My Advertisement page "
+msgstr "Els meus anuncis"
+
+#: String 317
+msgid "Image is not valid. Please try again."
+msgstr "La imatge no es válida. Provi de nou"
+
+#: String 318
+msgid "Image is uploaded."
+msgstr "Imatge no carregada"
+
+#: String 319
+msgid "You have successfuly changed your data"
+msgstr "Ha canviat les dades correctament."
+
+#: String 320
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap actualitzat"
+
+#: String 321
+msgid "Open Classifieds migration"
+msgstr "Migració Open Classifieds"
+
+#: String 322
+msgid "Theme configuration updated"
+msgstr "Configuració del tema actualitzat"
+
+#: String 323
+msgid "Mobile Theme updated"
+msgstr "Tema mòbil actualitzat"
+
+#: String 324
+msgid "Appearance configuration updated"
+msgstr "Configuració actualitzada"
+
+#: String 325
+msgid "Theme activated, thanks."
+msgstr "Tema activat, gràcies"
+
+#: String 326
+msgid "Mail not sent"
+msgstr "Correu no enviat"
+
+#: String 327
+msgid "Email sent to all the users"
+msgstr "Correu enviat a tots els usuaris"
+
+#: String 328
+msgid "Failed to load content"
+msgstr "Error al carregat el contingut"
+
+#: String 329
+msgid "Content is deleted"
+msgstr "Contingut esborrat"
+
+#: String 330
+msgid "Content is not deleted"
+msgstr "Contingut no esborrat"
+
+#: String 331
+msgid "Error on mail delivery, not sent"
+msgstr "Error d'entrega de correu, no enviat"
+
+#: String 332
+msgid "There was an error activating your license."
+msgstr "Hi hagut un error activant la llicència"
+
+#: String 333
+msgid "Is not valid format, please use ZIP format"
+msgstr "No és vàlid, utilitzi format ZIP"
+
+#: String 334
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "El seu anunci s'ha activat correctament! Gràcies!"
+
+#: String 335
+msgid "Advanced Search"
+msgstr "Cerca avançada"
+
+#: String 336
+msgid "No sitemap generated"
+msgstr "No hi ha mapa generat"
+
+#: String 337
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "La web està en manteniment, només tu pots veure-la."
+
+#: String 338
+msgid "Page "
+msgstr "Pàgina"
+
+#: String 339
+msgid "all"
+msgstr "tot"
+
+#: String 340
+msgid "You have succesfully installed the theme!"
+msgstr "Ha instal·lat el tema correctament!"
+
+#: String 341
+msgid "We need your email address to complete"
+msgstr "Necessitem el seu email"
+
+#: String 342
+msgid "Error: please try again!"
+msgstr "Error. Provi de nou"
+
+#: String 343
+msgid "is edited"
+msgstr "s'ha editat"
+
+#: String 344
+msgid "is created"
+msgstr "s'ha creat"
+
+#: String 345
+msgid "Social Authentication for login"
+msgstr "Autenticació Social per login"
+
+#: String 346
+msgid "List"
+msgstr "Llista"
+
+#: String 347
+msgid "Edit Translation"
+msgstr "Editar Traducció"
+
+#: String 348
+msgid "Language saved"
+msgstr "idioma guardat"
+
+#: String 349
+msgid "Widget parameter missing"
+msgstr "paràmetre desconegut"
+
+#: String 350
+msgid "Zip file faild to extract, please try again."
+msgstr "Error en extreure el zip, provi de nou"
+
+#: String 351
+msgid "Database cleaned"
+msgstr "Base de dades neta"
+
+#: String 352
+msgid "Review database connection parameters"
+msgstr "Revisa els paràmetres de connexió amb la BBDD"
+
+#: String 353
+msgid "You are not using latest version of OC, please update."
+msgstr "No fa servir la darrera versió de OC. Siusplau actualitzi"
+
+#: String 354
+msgid "Updated"
+msgstr "Actualitzat"
+
+#: String 355
+msgid "You do not have any advertisements waiting to be published"
+msgstr "No tens cap anunci en espera de ser publicat"
+
+#: String 356
+msgid "Warning, something went wrong while deleting"
+msgstr "Alguna cosa ha fallat durant l'eliminació"
+
+#: String 357
+msgid "Category deleted"
+msgstr "Categoría eliminada"
+
+#: String 358
+msgid "Category not deleted"
+msgstr "Categoría no esborrada"
+
+#: String 359
+msgid "contents"
+msgstr "continguts"
+
+#: String 360
+msgid "You dont have any "
+msgstr "No té cap"
+
+#: String 361
+msgid "Advertisement is to top"
+msgstr "L'anunci està al top"
+
+#: String 362
+msgid "Advertisement is featured"
+msgstr "Anunci destacat"
+
+#: String 363
+msgid "Advertisement is deleted"
+msgstr "Anunci eliminat"
+
+#: String 364
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Avís, l'anunci ja està marcat com spam"
+
+#: String 365
+msgid "Advertisement is marked as spam"
+msgstr "Anunci marcat com spam"
+
+#: String 366
+msgid "Accept Terms Alert"
+msgstr "Acceptar condicions del servei"
+
+#: String 367
+msgid "Deactivated"
+msgstr "Desactivar"
+
+#: String 368
+msgid "Published"
+msgstr "Publicat"
+
+#: String 369
+msgid "Unavailable"
+msgstr "No disponible"
+
+#: String 370
+msgid "Unconfirmed"
+msgstr "No confirmat"
+
+#: String 371
+msgid "Activate?"
+msgstr "Activar?"
+
+#: String 372
+msgid "Not published"
+msgstr "No publicat"
+
+#: String 373
+msgid "Date"
+msgstr "Data"
+
+#: String 374
+msgid "Profile picture"
+msgstr "Foto de perfil"
+
+#: String 375
+msgid "Profile Picture"
+msgstr "Foto del perfil"
+
+#: String 376
+msgid " New"
+msgstr "Nou"
+
+#: String 377
+msgid "Status"
+msgstr "Estat"
+
+#: String 378
+msgid "Activate"
+msgstr "Activar"
+
+#: String 379
+msgid "Refresh listing, go to top?"
+msgstr "Refrescar llista, vagi a la part superior?"
+
+#: String 380
+msgid "Deactivate featured"
+msgstr "Desactivar destacat"
+
+#: String 381
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Està segur que desitja desactivar l'anunci destacat?"
+
+#: String 382
+msgid "Statistics"
+msgstr "Estadística"
+
+#: String 383
+msgid "Today"
+msgstr "Avui"
+
+#: String 384
+msgid "Deactivate featured?"
+msgstr "Desactivar destacat?"
+
+#: String 385
+msgid "Are you sure you want to make it featured?"
+msgstr "Segur que vols destacar-lo?"
+
+#: String 386
+msgid "Go to top"
+msgstr "Anar a l'inici"
+
+#: String 387
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Està segur que vol actualitzar els anuncis?"
+
+#: String 388
+msgid "Make featured?"
+msgstr "Marcar com destacat"
+
+#: String 389
+msgid "Type your password twice to change"
+msgstr "Escrigui la contrasenya dues vegades per canviar-la"
+
+#: String 390
+msgid "Repeat password"
+msgstr "Repetir contrasenya"
+
+#: String 391
+msgid "Thanks for using Open Classifieds."
+msgstr "Gràcies per usar Open Classifieds"
+
+#: String 392
+msgid "Your installation version is"
+msgstr "La seva versió de la instal·lació és"
+
+#: String 393
+msgid "Check for updates"
+msgstr "Buscar actualitzacions"
+
+#: String 394
+msgid "You need help or you have some questions"
+msgstr "Necessita ajuda o té alguna pregunta"
+
+#: String 395
+msgid "Welcome"
+msgstr "Benvingut"
+
+#: String 396
+msgid "Are you sure you want to delete?"
+msgstr "Està segur que desitja eliminar?"
+
+#: String 397
+msgid "Page"
+msgstr "Pàgina"
+
+#: String 398
+msgid "Update"
+msgstr "Actualitzar"
+
+#: String 399
+msgid "Automatic emails sent to users"
+msgstr "Email automàtic enviat als usuaris"
+
+#: String 400
+msgid "Actions"
+msgstr "Accions"
+
+#: String 401
+msgid "Forum"
+msgstr "Foro"
+
+#: String 402
+msgid "Support"
+msgstr "Suport"
+
+#: String 403
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: String 404
+msgid "Change password"
+msgstr "Cambiar contrasenya"
+
+#: String 405
+msgid "New password"
+msgstr "Nova contrasenya"
+
+#: String 406
+msgid "Password"
+msgstr "Contrasenya"
+
+#: String 407
+msgid "Buy a Theme"
+msgstr "Compra un tema"
+
+#: String 408
+msgid "Or"
+msgstr "o"
+
+#: String 409
+msgid "Latest News"
+msgstr "Últimes Notícies"
+
+#: String 410
+msgid "Help us improve!"
+msgstr "Ajuda'ns per millorar!"
+
+#: String 411
+msgid "Open Classifieds is an amazing free Open Source Software. With a small donation you are helping us keep the project alive and updated. Thanks!"
+msgstr "Open Classifieds es un programa de codi Obert. Amb una petita donació ens ajuda a mantenir el projecte viu i actualitzat. Gràcies!"
+
+#: String 412
+msgid "Yesterday"
+msgstr "Ahir"
+
+#: String 413
+msgid "Last 30 days"
+msgstr "Últims 30 dies"
+
+#: String 414
+msgid "Check"
+msgstr "Activar"
+
+#: String 415
+msgid "Themes"
+msgstr "Temes"
+
+#: String 416
+msgid "You can change the look and feel of your website here."
+msgstr "Pot canviar l'aparença de la seva pàgina web."
+
+#: String 417
+msgid "Current Theme"
+msgstr "Tema actual"
+
+#: String 418
+msgid "License"
+msgstr "Llicència"
+
+#: String 419
+msgid "Please insert here the license for your theme."
+msgstr "Escrigui la llicència del tema"
+
+#: String 420
+msgid "Using mobile theme"
+msgstr "Usant el tema mòbil"
+
+#: String 421
+msgid "Disable"
+msgstr "Inhabilitar"
+
+#: String 422
+msgid "Options"
+msgstr "Opcions"
+
+#: String 423
+msgid "Theme License"
+msgstr "Llicència del tema"
+
+#: String 424
+msgid "Install theme"
+msgstr "Instal·ar tema"
+
+#: String 425
+msgid "To install new theme choose zip file."
+msgstr "Per instal·lar un nou tema esculli el fitxer zip"
+
+#: String 426
+msgid "Here you can find a selection of our premium themes."
+msgstr "Aquí es pot trobar una selecció dels nostres temes premium."
+
+#: String 427
+msgid "All themes include support, updates and 1 site license."
+msgstr "Tots els temes inclouen suport, actualitzacions i 1 llicència."
+
+#: String 428
+msgid "Also white labeled and free of ads"
+msgstr "Marca blanca i lliure d'anuncis"
+
+#: String 429
+msgid "Translations"
+msgstr "Traduccions"
+
+#: String 430
+msgid "Themes Market"
+msgstr "Themes Market"
+
+#: String 431
+msgid "Available Mobile Themes"
+msgstr "Temes mòbils"
+
+#: String 432
+msgid "Submit"
+msgstr "Enviar"
+
+#: String 433
+msgid "Available Themes"
+msgstr "Temes disponibles"
+
+#: String 434
+msgid "Preview"
+msgstr "Pre-visualitzar"
+
+#: String 435
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "A continuació s'enumeren els valors de configuració de tema. Canviï els camps d'entrada amb nous valors desitjats per al tema."
+
+#: String 436
+msgid "Theme Options"
+msgstr "Opcions del tema"
+
+#: String 437
+msgid "Filter"
+msgstr "Filtrar"
+
+#: String 438
+msgid "Views and Contacts statistic"
+msgstr "Estadístiques de visites i contactes "
+
+#: String 439
+msgid "Min Price"
+msgstr "Preu Mínim"
+
+#: String 440
+msgid "Max Price"
+msgstr "Preu Màxim"
+
+#: String 441
+msgid "To"
+msgstr "A"
+
+#: String 442
+msgid "From"
+msgstr "De"
+
+#: String 443
+msgid "Total"
+msgstr "Total"
+
+#: String 444
+msgid "Contacts"
+msgstr "Contactes"
+
+#: String 445
+msgid "Visits"
+msgstr "Visites"
+
+#: String 446
+msgid "Charts"
+msgstr "Gràfics"
+
+#: String 447
+msgid "Created"
+msgstr "Creat"
+
+#: String 448
+msgid "Unsubscribe to all?"
+msgstr "Desubscriure's de tot?"
+
+#: String 449
+msgid "Profile"
+msgstr "Perfil"
+
+#: String 450
+msgid "Delete image"
+msgstr "Esborrar la imatge"
+
+#: String 451
+msgid "View"
+msgstr "Vista"
+
+#: String 452
+msgid "Thanks for using our website."
+msgstr "Gràcies per utilitzar la nostra pàgina web."
+
+#: String 453
+msgid "Id_User"
+msgstr "id_User"
+
+#: String 454
+msgid "Edit Advertisement"
+msgstr "Editar anunci"
+
+#: String 455
+msgid "Unsubscribe to all"
+msgstr "Desubscriure's de tot"
+
+#: String 456
+msgid "Unsubscribe?"
+msgstr "Desubscriure's"
+
+#: String 457
+msgid "Unsubscribe"
+msgstr "Desubscriure's"
+
+#: String 458
+msgid "Blog post"
+msgstr "entrada al blog"
+
+#: String 459
+msgid "New"
+msgstr "Nou"
+
+#: String 460
+msgid "Panel"
+msgstr "Panell"
+
+#: String 461
+msgid "My Advertisements"
+msgstr "Els meus Anuncis"
+
+#: String 462
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+#: String 463
+msgid "Public profile"
+msgstr "Perfil públic"
+
+#: String 464
+msgid "We detected you are currently off-line, please connect to gain full experience."
+msgstr "Vostè està desconnectat, connecti's per una experiència completa"
+
+#: String 465
+msgid "Warning"
+msgstr "Advertiment"
+
+#: String 466
+msgid "Login"
+msgstr "Login"
+
+#: String 467
+msgid "Forgot password"
+msgstr "Ha oblidat la contrasenya?"
+
+#: String 468
+msgid "Register"
+msgstr "Registra't"
+
+#: String 469
+msgid "Mobile Version"
+msgstr "Versió móbil"
+
+#: String 470
+msgid "Logout"
+msgstr "Sortir"
+
+#: String 471
+msgid "Visit Site"
+msgstr "Visiti la web"
+
+#: String 472
+msgid "Title"
+msgstr "Titol"
+
+#: String 473
+msgid "Category"
+msgstr "Categoria"
+
+#: String 474
+msgid "Location"
+msgstr "Ubicació"
+
+#: String 475
+msgid "Description"
+msgstr "Descripció"
+
+#: String 476
+msgid "Publish new advertisement"
+msgstr "Publicar un nou anunci"
+
+#: String 477
+msgid "Categories"
+msgstr "Categories"
+
+#: String 478
+msgid "Latest Ads"
+msgstr "Últims anuncis"
+
+#: String 479
+msgid "Featured Ads"
+msgstr "Anuncis destacats"
+
+#: String 480
+msgid "Popular Ads last month"
+msgstr "Anuncis populars del mes passat"
+
+#: String 481
+msgid "Contact"
+msgstr "Contacte"
+
+#: String 482
+msgid "Search"
+msgstr "Buscar"
+
+#: String 483
+msgid "Short description that appears after the site name."
+msgstr "Descripció curta a mostrar després del nom de la web"
+
+#: String 484
+msgid "Numbers of ads to display in home slider"
+msgstr "Número d'anuncis a mostrar al slider"
+
+#: String 485
+msgid "Where you want the sidebar to appear"
+msgstr "On vol fer aparèixer la barra lateral"
+
+#: String 486
+msgid "Right side"
+msgstr "Costat dret"
+
+#: String 487
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL del seu logo, Tamany recomanat 250x40 px. Deixar en blanc per cap"
+
+#: String 489
+msgid "Change the admin color theme"
+msgstr "Canviar el color del tema d'admin"
+
+#: String 490
+msgid "Header tool bar gets fixed in the top"
+msgstr "Barra d'eines fixada a dalt "
+
+#: String 491
+msgid "Yes"
+msgstr "Si"
+
+#: String 492
+msgid "No"
+msgstr "No"
+
+#: String 493
+msgid "Left side"
+msgstr "Costat esquerre"
+
+#: String 494
+msgid "Display slider in listing"
+msgstr "Mostra slider al llistat"
+
+#: String 495
+msgid "Home"
+msgstr "Inici"
+
+#: String 496
+msgid "Listing"
+msgstr "Llistat"
+
+#: String 497
+msgid "Blog"
+msgstr "Blog"
+
+#: String 498
+msgid "FAQ"
+msgstr "FAQ"
+
+#: String 499
+msgid "Publish new"
+msgstr "Nou anunci"
+
+#: String 500
+msgid "Uses CDN for CSS/JS"
+msgstr "Utilitza CDN per a CSS/JS"
+
+#: String 501
+msgid "Header banner, allows HTML"
+msgstr "Banner de capçalera, permet HTML"
+
+#: String 502
+msgid "Footer banner, allows HTML"
+msgstr "Banner del peu. Permet HTML"
+
+#: String 503
+msgid "Listing random position banner, allows HTML"
+msgstr "Llistar banner aleatòriament, permet HTML"
+
+#: String 504
+msgid "Images"
+msgstr "Imatges"
+
+#: String 505
+msgid "Phone"
+msgstr "Telèfon"
+
+#: String 506
+msgid "Edit"
+msgstr "Editar"
+
+#: String 507
+msgid "Deactivate?"
+msgstr "Desactivar?"
+
+#: String 508
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: String 509
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 510
+msgid "Read more"
+msgstr "Llegir més"
+
+#: String 511
+msgid "Publish Date"
+msgstr "Data de Publicació"
+
+#: String 512
+msgid "to"
+msgstr "Preu màxim"
+
+#: String 513
+msgid "Search results"
+msgstr "Resultats de la recerca"
+
+#: String 514
+msgid "New Advertisement"
+msgstr "Nou Anunci"
+
+#: String 515
+msgid "Featured"
+msgstr "Destacat"
+
+#: String 516
+msgid "Spam"
+msgstr "Spam"
+
+#: String 517
+msgid "Delete?"
+msgstr "Eliminar?"
+
+#: String 518
+msgid "Moderation"
+msgstr "Moderació"
+
+#: String 519
+msgid "Stats"
+msgstr "Estadístiques"
+
+#: String 520
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 521
+msgid "Cache"
+msgstr "Memòria cau"
+
+#: String 522
+msgid "Market"
+msgstr "Mercat"
+
+#: String 523
+msgid "I accept"
+msgstr "Accepto"
+
+#: String 524
+msgid "Delete"
+msgstr "Esborrar"
+
+#: String 525
+msgid "We do not have any advertisements in this category"
+msgstr "No tenim anuncis en aquest categoria"
+
+#: String 526
+msgid "Publish new "
+msgstr "Publicar nou"
+
+#: String 527
+msgid "Price to"
+msgstr "Preu màxim "
+
+#: String 528
+msgid "Price from"
+msgstr "Preu mínim"
+
+#: String 529
+msgid "User account will be created"
+msgstr "Es crearà el compte d'usuari"
+
+#: String 530
+msgid "This advertisement doesn`t exist, or is not yet published!"
+msgstr "Aquest anunci no existeix o encara no s'ha publicat"
+
+#: String 531
+msgid "Your Advertisement can go on top again! For only "
+msgstr "el seu anunci pot anar al top una altra vegada! Per només"
+
+#: String 532
+msgid "Go Top!"
+msgstr "Anar a dalt"
+
+#: String 533
+msgid "Terms of service"
+msgstr "Condicions del servei"
+
+#: String 534
+msgid "Email"
+msgstr "Email"
+
+#: String 535
+msgid "Address"
+msgstr "Adreça"
+
+#: String 536
+msgid "Price"
+msgstr "Preu"
+
+#: String 537
+msgid "Website"
+msgstr "Web"
+
+#: String 538
+msgid "Name"
+msgstr "Nom"
+
+#: String 539
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Pot destacar el seu anunci. Per només"
+
+#: String 540
+msgid "Go Featured!"
+msgstr "Anar a destacats"
+
+#: String 541
+msgid "File"
+msgstr "Fitxer"
+
+#: String 542
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 543
+msgid "Contact Us"
+msgstr "Contacti'ns"
+
+#: String 544
+msgid "Advertisement Title"
+msgstr "Títol de l'anunci"
+
+#: String 545
+msgid "Message"
+msgstr "Missatge"
+
+#: String 546
+msgid "Subject"
+msgstr "Tema"
+
+#: String 547
+msgid "Hits"
+msgstr "Visites"
+
+#: String 548
+msgid "Buy Now"
+msgstr "Comprar"
+
+#: String 549
+msgid "Send Message"
+msgstr "Enviar missatge"
+
+#: String 550
+msgid "Here you can modify any text you find in your web."
+msgstr "Aquí pot modificar el text que es troba a la seva pàgina"
+
+#: String 551
+msgid "Original Translation"
+msgstr "Traducció original"
+
+#: String 552
+msgid "Locations"
+msgstr "Ubicacions"
+
+#: String 553
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Canviar l'ordre de les ubicacions . Tinigui en compte que més de dos nivell anidats probablement no siguin mostrats pel tema (no es recomana)."
+
+#: String 554
+msgid "New location"
+msgstr "Nova ubicació"
+
+#: String 555
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Està segur que desitja eliminar-lo? Mourem les ubicacions i els anuncis dels germans dels pares d'aquesta categoria."
+
+#: String 556
+msgid "Displays the field Address in the Ad form."
+msgstr "Mostra l'adreça de camp en el formulari."
+
+#: String 557
+msgid "Address field"
+msgstr "Camp adreça"
+
+#: String 558
+msgid "Displays the field Price in the Ad form."
+msgstr "Mostra el camp preu en el formulari"
+
+#: String 559
+msgid "Upload file"
+msgstr "Pujar arxiu"
+
+#: String 560
+msgid "Enables Captcha"
+msgstr "Permet Captcha"
+
+#: String 561
+msgid "Captcha appears in the form."
+msgstr "Captcha apareix en el formulari."
+
+#: String 562
+msgid "General Configuration"
+msgstr "Configuració general"
+
+#: String 563
+msgid "General site settings."
+msgstr "Configuració de la web."
+
+#: String 564
+msgid "Site name"
+msgstr "Nom de la web"
+
+#: String 565
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Aquí podrà posar el seu nom per mostrar. Serà visible a tothom"
+
+#: String 566
+msgid "Site Name"
+msgstr "Nom de la web"
+
+#: String 567
+msgid "Site description"
+msgstr "Descripció de la web"
+
+#: String 568
+msgid "It changes landing page of website"
+msgstr "Canviar la pàgina d'arribada de la web"
+
+#: String 569
+msgid "Landing page"
+msgstr "Pàgina d'arribada"
+
+#: String 570
+msgid "All configurations"
+msgstr "Totes les configuracions"
+
+#: String 571
+msgid "Maintenance Mode"
+msgstr "Mode de  Manteniment"
+
+#: String 572
+msgid "Enables the site to maintenance"
+msgstr "Activa el mode de  manteniment"
+
+#: String 573
+msgid "Price field"
+msgstr "Camp preu"
+
+#: String 574
+msgid "Displays the Select Location in the Ad form."
+msgstr "Mostra el selector d'ubicacions"
+
+#: String 575
+msgid "Heads Up!"
+msgstr "Atenció"
+
+#: String 576
+msgid "Custom fields are only available with premium themes!"
+msgstr "Camps personalittzats només disponibles als temes premium"
+
+#: String 577
+msgid "Upgrade your Open Classifieds site to activate this feature."
+msgstr "Actualitza Open Classifieds per activar aquesta funció"
+
+#: String 578
+msgid "Browse Themes"
+msgstr "Navega pels temes"
+
+#: String 579
+msgid "Custom Fields"
+msgstr "Camps personalitzats"
+
+#: String 580
+msgid "Send"
+msgstr "Enviar"
+
+#: String 581
+msgid "Comma separated for select"
+msgstr "Select separat per comes"
+
+#: String 582
+msgid "Required"
+msgstr "Camp obligatori"
+
+#: String 583
+msgid "Searchable"
+msgstr "Permet recerca"
+
+#: String 584
+msgid "Edit Custom Field"
+msgstr "Editar camp personalitzable"
+
+#: String 585
+msgid "Advertisement Custom Fields"
+msgstr "Camps personalitzats de l'anunci"
+
+#: String 586
+msgid "New field"
+msgstr "nou camp"
+
+#: String 587
+msgid "Displays the field Phone in the Ad form."
+msgstr "Mostra el camp de telèfon en el formulari de l'anunci."
+
+#: String 588
+msgid "Website field"
+msgstr "Camp Website"
+
+#: String 589
+msgid "Displays the field Website in the Ad form."
+msgstr "Mostra el camp Website en el formulari de l'anunci."
+
+#: String 590
+msgid "Displays location select"
+msgstr "Es mostra la selecció d'ubicacions"
+
+#: String 591
+msgid "Phone field"
+msgstr "Camp telèfon"
+
+#: String 592
+msgid "Optional Advertisement Fields"
+msgstr "Camps opcionals de l'anunci"
+
+#: String 593
+msgid "searchable"
+msgstr "Permet recerca"
+
+#: String 594
+msgid "required"
+msgstr "Obligatori"
+
+#: String 595
+msgid "Optional Fields"
+msgstr "Camps opcionals"
+
+#: String 596
+msgid "Base URL"
+msgstr "URL Base"
+
+#: String 597
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "És la ruta de base de la web (per exemple http://open-classifieds.com/). Tot la resta es construeix sobre aquest camp."
+
+#: String 598
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "La miniatura és una petita imatge redimensionada per encaixar alguns elements. Aquesta és l'alçada d'aquesta imatge."
+
+#: String 599
+msgid "Thumb height in pixels(px)"
+msgstr "Alçada miniatura en píxels (px)"
+
+#: String 600
+msgid "Thumb width"
+msgstr "Amplària de la miniatura"
+
+#: String 601
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "La miniatura és una petita imatge redimensionada per encaixar alguns elements. Aquesta és l'amplada d'aquesta imatge."
+
+#: String 602
+msgid "Thumb height"
+msgstr "Altura de la miniatura"
+
+#: String 603
+msgid "Image width in pixels(px)"
+msgstr "Ample de la imatge en píxels (px)"
+
+#: String 604
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Cada imatge canvia de grandària quan s'envia. Aquesta és l'altura de la imatge més gran. Nota: es pot deixar aquest camp en blanc per establir l'altura de grandària automàtica."
+
+#: String 605
+msgid "Image height in pixels(px)"
+msgstr "Altura de la imatge en píxels (px)"
+
+#: String 606
+msgid "Image width"
+msgstr "Amplada de la imatge"
+
+#: String 607
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Es modifica la grandària de cada imatges quan s'envia.. Aquesta és l'amplària de la imatge més gran."
+
+#: String 608
+msgid "Thumb width in pixels(px)"
+msgstr "Amplada de la miniatura en píxels (px)"
+
+#: String 609
+msgid "Image quality"
+msgstr "Qualitat de la imatge"
+
+#: String 610
+msgid "Relative path to the image to use as watermark"
+msgstr "Ruta relativa a la imatge per la marca d'aigua"
+
+#: String 611
+msgid "Watermark position"
+msgstr "Posició de la marca d'aigua"
+
+#: String 612
+msgid "Akismet Key"
+msgstr "Clau Akismet"
+
+#: String 613
+msgid "Providing akismet key will activate this feature. This feature deals with spam posts and emails."
+msgstr "La clau akismet per activar aquesta funció. Aquesta funció combat el spam als posts i als emails"
+
+#: String 614
+msgid "Watermark path"
+msgstr "Ruta de la marca d'aigua"
+
+#: String 615
+msgid "Appends watermark to images"
+msgstr "Afegir marca d'aigua a les imatges"
+
+#: String 616
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Tria la qualitat de les imatges emmagatzemades (1-100% de l'original)."
+
+#: String 617
+msgid "Image Quality"
+msgstr "Qualitat de la imatge"
+
+#: String 618
+msgid "Watermark"
+msgstr "Marca d'aigua"
+
+#: String 619
+msgid "Image height"
+msgstr "Altura de la imatge"
+
+#: String 620
+msgid "Image size in mega bites(Mb)"
+msgstr "Grandària d'imatge en mega bites (Mb)"
+
+#: String 621
+msgid "Number of Ads"
+msgstr "Número d'anuncis"
+
+#: String 622
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Quants anuncis han d' aparèixer en el feed de la web"
+
+#: String 623
+msgid "Advertisements in Map"
+msgstr "Anuncis en mapa"
+
+#: String 624
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Quants anuncis van a aparèixer en el mapa de la web"
+
+#: String 625
+msgid "Advertisements in RSS"
+msgstr "Anuncis en RSS"
+
+#: String 626
+msgid "Number of ads per page"
+msgstr "Nombre d'anuncis per pàgina"
+
+#: String 627
+msgid "Base URL path"
+msgstr "Ruta URL Basi"
+
+#: String 628
+msgid "Moderation col-sm-4"
+msgstr "Moderació col-sm-4"
+
+#: String 629
+msgid "Advertisements per page"
+msgstr "Anuncis per pàgina"
+
+#: String 630
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Això és per controlar el nombre d'anuncis que estan sent mostrats per pàgina. Introdueixi un valor sencer."
+
+#: String 631
+msgid "Money format"
+msgstr "Format moneda"
+
+#: String 632
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Format de nombre és la forma en què desitja mostrar els nombres relacionats amb el seu anunci."
+
+#: String 633
+msgid "Allowed image formats"
+msgstr "Formats d'imatges permeses"
+
+#: String 634
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Estableixi això per restringir formats d'imatge que s'està carregant en el seu servidor."
+
+#: String 635
+msgid "Max image size"
+msgstr "Grandària màxima de la imatge"
+
+#: String 636
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Controlar la grandària de les imatges que s'han pujat. Introdueixi un valor sencer per establir la grandària màxima de la imatge en el mega bites (Mb)."
+
+#: String 637
+msgid "Once logged in your Google Analytics, you can find the Tracking ID in the Accounts List or in the Property Settings"
+msgstr "A google Analytics trobarà el tracking ID a la llista de comptes o a les propietats"
+
+#: String 638
+msgid "Analytics Tracking ID"
+msgstr "ID de Google Analytics"
+
+#: String 639
+msgid "Decimal representation"
+msgstr "Representació decimal"
+
+#: String 640
+msgid "Date format"
+msgstr "Format de la data"
+
+#: String 641
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Cada anunci té una data de publicació. Mitjançant la selecció de format, pot canviar la manera en què es mostra a la seva pàgina web."
+
+#: String 642
+msgid "Values"
+msgstr "valors"
+
+#: String 643
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: String 644
+msgid "Delete expired"
+msgstr "Eliminar expirats"
+
+#: String 645
+msgid "Config file"
+msgstr "L'arxiu de configuració"
+
+#: String 646
+msgid "Versions"
+msgstr "Versions"
+
+#: String 647
+msgid "Open Classifieds release history information."
+msgstr "Historial Open Classifieds."
+
+#: String 648
+msgid "Delete all"
+msgstr "Eliminar tots"
+
+#: String 649
+msgid "Cache configuration information"
+msgstr "Informació de configuració de la memòria cau"
+
+#: String 651
+msgid "Selection of nice extras for your installation."
+msgstr "Selecció d'extres"
+
+#: String 652
+msgid "Limited Offer!"
+msgstr "Oferta limitada!"
+
+#: String 653
+msgid "Valid Until"
+msgstr "Vigència"
+
+#: String 654
+msgid "Your Hash Key for this installation is"
+msgstr "La seva clau hash per a aquesta instal·lació és"
+
+#: String 655
+msgid "Version"
+msgstr "Versió"
+
+#: String 656
+msgid "Next sitemap"
+msgstr "Següent sitemap"
+
+#: String 657
+msgid "Generate"
+msgstr "Generar"
+
+#: String 658
+msgid "Expire time"
+msgstr "Caducitat"
+
+#: String 659
+msgid "Update on publish"
+msgstr "Actualitzar en publicar"
+
+#: String 660
+msgid "Last time generated"
+msgstr "Última generació"
+
+#: String 661
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 662
+msgid "Information"
+msgstr "Informació"
+
+#: String 663
+msgid "Latest"
+msgstr "Més recent"
+
+#: String 664
+msgid "Current"
+msgstr "Actual"
+
+#: String 665
+msgid "Icon"
+msgstr "Icona"
+
+#: String 666
+msgid "Target"
+msgstr "Objectiu"
+
+#: String 667
+msgid "New translation"
+msgstr "Nova traducció"
+
+#: String 668
+msgid "Language"
+msgstr "Idioma"
+
+#: String 669
+msgid "Active"
+msgstr "Actiu"
+
+#: String 670
+msgid "Custom menu"
+msgstr "Menú personalitzat"
+
+#: String 671
+msgid "Scan"
+msgstr "Escanejar"
+
+#: String 672
+msgid "Translations files available in the system."
+msgstr "Arxius al sistema de traduccions."
+
+#: String 673
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Copiar tot?, Tingui en compte que es reemplaçarà tots els seus textos."
+
+#: String 674
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Traduir tot?, Tingui en compte que es reemplaçarà tots els seus textos."
+
+#: String 675
+msgid "Translation"
+msgstr "Traducció"
+
+#: String 676
+msgid "Save"
+msgstr "Guardar"
+
+#: String 677
+msgid "Are you sure you want to delete? All data contained in this field will be deleted."
+msgstr "Està segur d'esborrar-lo"
+
+#: String 678
+msgid "Menu type"
+msgstr "Tipus de menú"
+
+#: String 679
+msgid "contact"
+msgstr "contacte"
+
+#: String 680
+msgid "rss"
+msgstr "RSS"
+
+#: String 681
+msgid "map"
+msgstr "mapa"
+
+#: String 682
+msgid "Url"
+msgstr "URL"
+
+#: String 683
+msgid "listing"
+msgstr "llista"
+
+#: String 684
+msgid "Default links"
+msgstr "Enllaços per defecte"
+
+#: String 685
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: String 686
+msgid "Default"
+msgstr "Defecte"
+
+#: String 687
+msgid "Create Menu Item"
+msgstr "Crear item al menú"
+
+#: String 688
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: String 689
+msgid "System Logs"
+msgstr "Registres del sistema"
+
+#: String 690
+msgid "Where do you want the widget displayed?"
+msgstr "On vol el widget?"
+
+#: String 691
+msgid "Close"
+msgstr "Tancar"
+
+#: String 692
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Segur que vols eliminar el widget? Pot moure-ho a inactius"
+
+#: String 693
+msgid "Save changes"
+msgstr "Guardar canvis"
+
+#: String 694
+msgid "Create"
+msgstr "Crear"
+
+#: String 695
+msgid "Sales statistics"
+msgstr "Estadístiques de vendes"
+
+#: String 696
+msgid "Site Usage Statistics"
+msgstr "Estadístiques d'ús de la web"
+
+#: String 697
+msgid "Ads"
+msgstr "Anuncis"
+
+#: String 698
+msgid "Sales"
+msgstr "Vendes"
+
+#: String 699
+msgid "Views and Ads statistics"
+msgstr "Visites i estadístiques d'anuncis"
+
+#: String 700
+msgid "Available widgets"
+msgstr "Els widgets disponibles"
+
+#: String 701
+msgid "New Custom Field"
+msgstr "Nova etiqueta personalitzada"
+
+#: String 702
+msgid "Number"
+msgstr "Número "
+
+#: String 703
+msgid "Number Decimal"
+msgstr "Número decimal"
+
+#: String 704
+msgid "Select"
+msgstr "Seleccionar"
+
+#: String 705
+msgid "Radio"
+msgstr "Radio"
+
+#: String 706
+msgid "Text Long"
+msgstr "Llargària del text"
+
+#: String 707
+msgid "Text 256 Chars"
+msgstr "Texte de 256 caràcters"
+
+#: String 708
+msgid "Label"
+msgstr "Etiqueta"
+
+#: String 709
+msgid "Tooltip"
+msgstr "Eines"
+
+#: String 710
+msgid "Type"
+msgstr "Tipus"
+
+#: String 711
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Està segur que desitja eliminar-lo? Passarem les categories i els anuncis dels germans als pares d'aquesta categoria."
+
+#: String 712
+msgid "New category"
+msgstr "Nova categoria"
+
+#: String 713
+msgid "Space to optimize"
+msgstr "Espai per optimitzar"
+
+#: String 714
+msgid "Table"
+msgstr "Taula"
+
+#: String 715
+msgid "Rows"
+msgstr "Files"
+
+#: String 716
+msgid "Size"
+msgstr "Grandària"
+
+#: String 717
+msgid "Database space"
+msgstr "Espai de base de dades"
+
+#: String 718
+msgid "Optimize"
+msgstr "Optimitzar"
+
+#: String 719
+msgid "Reading log file"
+msgstr "Llegint arxiu de registre"
+
+#: String 720
+msgid "Log"
+msgstr "Log"
+
+#: String 721
+msgid "Optimize Database"
+msgstr "Optimitzar la base de dades"
+
+#: String 722
+msgid "Save size"
+msgstr "Guardar tamany"
+
+#: String 723
+msgid "Migration"
+msgstr "Migració"
+
+#: String 724
+msgid "Database charset"
+msgstr "Conjunt de caràcters de la base de dades"
+
+#: String 725
+msgid "Table prefix"
+msgstr "Prefix de taula"
+
+#: String 726
+msgid "Migrate"
+msgstr "Migrar"
+
+#: String 727
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Canviar l'ordre de les categories. Tingui en compte que més de 2 nivells niats probablement no seran mostrats en el tema (no es recomana)."
+
+#: String 728
+msgid "Database name"
+msgstr "Nom de la base de dades"
+
+#: String 729
+msgid "User name"
+msgstr "Nom de l'usuari"
+
+#: String 730
+msgid "Your PHP time limit is"
+msgstr "El límit de temps en PHP és"
+
+#: String 731
+msgid "seconds"
+msgstr "segons"
+
+#: String 732
+msgid "Host name"
+msgstr "Nom del servidor"
+
+#: String 733
+msgid "Change the color scheme and style of the theme"
+msgstr "Canvia el color i el estil del tema"
+

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /4/images/*
+Sitemap: http://hackthenorth.stanleychin.com/4/sitemap.xml.gz

@@ -1,0 +1,2226 @@
+#: String 0
+msgid "Listing"
+msgstr "Liste"
+
+#: String 1
+msgid "Categories"
+msgstr "Kategorier"
+
+#: String 2
+msgid "Search"
+msgstr "Sök"
+
+#: String 3
+msgid "Publish new "
+msgstr "Skapa ny"
+
+#: String 4
+msgid "Login"
+msgstr "Inloggning"
+
+#: String 5
+msgid "Forgot password"
+msgstr "Glömt lösenordet"
+
+#: String 6
+msgid "Register"
+msgstr "Registrera"
+
+#: String 7
+msgid "Change the admin color theme"
+msgstr "Ändra admin färgtema"
+
+#: String 8
+msgid "Mobile Version"
+msgstr "Mobilversion"
+
+#: String 9
+msgid "Publish new"
+msgstr "Skapa ny"
+
+#: String 10
+msgid "Map"
+msgstr "Karta"
+
+#: String 11
+msgid "Contact"
+msgstr "Kontakta"
+
+#: String 12
+msgid "Latest Ads"
+msgstr "Senaste annonser"
+
+#: String 13
+msgid "New Advertisement"
+msgstr "Ny annons"
+
+#: String 14
+msgid "Publish new advertisement"
+msgstr "Skapa ny annons"
+
+#: String 15
+msgid "Featured"
+msgstr "Utvalda"
+
+#: String 16
+msgid "Publish Date"
+msgstr "Skapad den"
+
+#: String 17
+msgid "Price"
+msgstr "Pris"
+
+#: String 18
+msgid "Read more"
+msgstr "Läs mer"
+
+#: String 19
+msgid "Edit"
+msgstr "Redigera"
+
+#: String 20
+msgid "Deactivate?"
+msgstr "Inaktivera?"
+
+#: String 21
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: String 22
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 23
+msgid "Spam"
+msgstr "Spam"
+
+#: String 24
+msgid "Delete?"
+msgstr "Radera?"
+
+#: String 25
+msgid "Delete"
+msgstr "Radera"
+
+#: String 26
+msgid "We do not have any advertisements in this category"
+msgstr "Det finns inga annonser i denna kategori"
+
+#: String 27
+msgid "Hits"
+msgstr "Besök"
+
+#: String 28
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: String 29
+msgid "Name"
+msgstr "Namn"
+
+#: String 30
+msgid "Email"
+msgstr "E-post"
+
+#: String 31
+msgid "Subject"
+msgstr "Ämne"
+
+#: String 32
+msgid "Message"
+msgstr "Meddelande"
+
+#: String 33
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 34
+msgid "Number of latest ads to display in the home page"
+msgstr "Antal senaste annonserna som ska visas på hemsidan"
+
+#: String 35
+msgid "Change the color scheme and style of the theme"
+msgstr "Ändra färger och stil i temat"
+
+#: String 36
+msgid "Header banner, allows HTML"
+msgstr "Header banner, HTML tillåten"
+
+#: String 37
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Vänta, vi avleda dig till Paypal"
+
+#: String 38
+msgid "Click here if you are not redirected"
+msgstr "Klicka här om du inte omdirigeras"
+
+#: String 39
+msgid "First"
+msgstr "Först"
+
+#: String 40
+msgid "Previous"
+msgstr "Föregående"
+
+#: String 41
+msgid "Page"
+msgstr "Sida"
+
+#: String 42
+msgid "Next"
+msgstr "Nästa"
+
+#: String 43
+msgid "Last"
+msgstr "Senaste"
+
+#: String 44
+msgid "Edit Profile"
+msgstr "Redigera profil"
+
+#: String 45
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+#: String 46
+msgid "Old password"
+msgstr "Gammalt lösenord"
+
+#: String 47
+msgid "Password"
+msgstr "Lösenord"
+
+#: String 48
+msgid "New password"
+msgstr "Nytt lösenord"
+
+#: String 49
+msgid "Repeat password"
+msgstr "Upprepa lösenord"
+
+#: String 50
+msgid "Type your password twice to change"
+msgstr "Ange ditt lösenord två gånger för att ändra"
+
+#: String 51
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: String 52
+msgid "Send"
+msgstr "Skicka"
+
+#: String 53
+msgid "My Advertisements"
+msgstr "Mina annonser"
+
+#: String 54
+msgid " New"
+msgstr "Skapa ny"
+
+#: String 55
+msgid "Category"
+msgstr "Kategori"
+
+#: String 56
+msgid "Location"
+msgstr "Position"
+
+#: String 57
+msgid "Status"
+msgstr "Status"
+
+#: String 58
+msgid "Date"
+msgstr "Datum"
+
+#: String 59
+msgid "Not published"
+msgstr "Ej publicerad"
+
+#: String 60
+msgid "Published"
+msgstr "Publicerad"
+
+#: String 61
+msgid "Unavailable"
+msgstr "Inte tillgängligt"
+
+#: String 62
+msgid "Update"
+msgstr "Uppdatera"
+
+#: String 63
+msgid "Activate?"
+msgstr "Aktivera?"
+
+#: String 64
+msgid "Activate"
+msgstr "Aktivera"
+
+#: String 65
+msgid "Refresh listing, go to top?"
+msgstr "Uppdatera listan, gå till toppen?"
+
+#: String 66
+msgid "Go to top"
+msgstr "Gå till toppen"
+
+#: String 67
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Är du säker på att du vill uppdatera listan och gå till toppen?"
+
+#: String 68
+msgid "Make featured?"
+msgstr "Markera?"
+
+#: String 69
+msgid "Are you sure you want to make it featured?"
+msgstr "Är du säker på att du vill markera den här annonsen?"
+
+#: String 70
+msgid "Deactivate featured?"
+msgstr "Inaktivera markerad?"
+
+#: String 71
+msgid "Deactivate featured"
+msgstr "Inaktivera markerad"
+
+#: String 72
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Är du säker på att du vill ta bort markeringen i denna annons?"
+
+#: String 73
+msgid "Statistics"
+msgstr "Statistik"
+
+#: String 74
+msgid "Today"
+msgstr "I dag"
+
+#: String 75
+msgid "Yesterday"
+msgstr "I går"
+
+#: String 76
+msgid "Last 30 days"
+msgstr "Senaste 30 dagarna"
+
+#: String 77
+msgid "Total"
+msgstr "Totalt"
+
+#: String 78
+msgid "Contacts"
+msgstr "Kontakter"
+
+#: String 79
+msgid "Visits"
+msgstr "Besök"
+
+#: String 80
+msgid "Charts"
+msgstr "Topplista"
+
+#: String 81
+msgid "From"
+msgstr "Från"
+
+#: String 82
+msgid "To"
+msgstr "Till"
+
+#: String 83
+msgid "Filter"
+msgstr "Filtrera"
+
+#: String 84
+msgid "Views and Contacts statistic"
+msgstr "visningar och kontaktstatistik"
+
+#: String 85
+msgid "Edit Advertisement"
+msgstr "Redigera annons"
+
+#: String 86
+msgid "Id_User"
+msgstr "id_Användare"
+
+#: String 87
+msgid "Profile"
+msgstr "Profil"
+
+#: String 88
+msgid "Unpublished"
+msgstr "Opublicerad"
+
+#: String 89
+msgid "spam"
+msgstr "spam"
+
+#: String 90
+msgid "Title"
+msgstr "Titel"
+
+#: String 91
+msgid "Description"
+msgstr "Beskrivning"
+
+#: String 92
+msgid "Delete image"
+msgstr "Ta bort detta foto"
+
+#: String 93
+msgid "Images"
+msgstr "Bilder"
+
+#: String 94
+msgid "Phone"
+msgstr "Telefon"
+
+#: String 95
+msgid "Address"
+msgstr "Adress"
+
+#: String 96
+msgid "Website"
+msgstr "Hemsida"
+
+#: String 97
+msgid "Panel"
+msgstr "Panel"
+
+#: String 98
+msgid "Market"
+msgstr "Marknad"
+
+#: String 99
+msgid "Moderation"
+msgstr "Moderering"
+
+#: String 100
+msgid "Stats"
+msgstr "Statistik"
+
+#: String 101
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 102
+msgid "New"
+msgstr "Skapa"
+
+#: String 103
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: String 104
+msgid "Thanks for using our website."
+msgstr "Tack för att du använder vår webbplats."
+
+#: String 105
+msgid "Advertisements"
+msgstr "Annonser"
+
+#: String 106
+msgid "Locations"
+msgstr "Positioner"
+
+#: String 107
+msgid "Orders"
+msgstr "Beställningar"
+
+#: String 108
+msgid "Content"
+msgstr "Innehåll"
+
+#: String 109
+msgid "Translations"
+msgstr "Översättningar"
+
+#: String 110
+msgid "Newsletters"
+msgstr "Nyhetsbrev"
+
+#: String 111
+msgid "Themes"
+msgstr "Teman"
+
+#: String 112
+msgid "Theme Options"
+msgstr "Inställningar för teman"
+
+#: String 113
+msgid "Settings"
+msgstr "Inställningar"
+
+#: String 114
+msgid "General"
+msgstr "Allmän"
+
+#: String 115
+msgid "Payment"
+msgstr "Betalning"
+
+#: String 116
+msgid "Advertisement"
+msgstr "Användare"
+
+#: String 117
+msgid "Users"
+msgstr "Användare"
+
+#: String 118
+msgid "User Roles"
+msgstr "Användarroller"
+
+#: String 119
+msgid "Roles access"
+msgstr "Roller tillgång"
+
+#: String 120
+msgid "Tools"
+msgstr "Verktyg"
+
+#: String 121
+msgid "Updates"
+msgstr "Uppdateringar"
+
+#: String 122
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 123
+msgid "Migration"
+msgstr "Flyttning"
+
+#: String 124
+msgid "Optimize"
+msgstr "Optimera"
+
+#: String 125
+msgid "Cache"
+msgstr "Cache"
+
+#: String 126
+msgid "Logs"
+msgstr "Logs"
+
+#: String 127
+msgid "PHP Info"
+msgstr "PHP Info"
+
+#: String 128
+msgid "Edit profile"
+msgstr "Redigera profil"
+
+#: String 129
+msgid "Public profile"
+msgstr "Allmän profil"
+
+#: String 130
+msgid "Home"
+msgstr "Start"
+
+#: String 131
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: String 132
+msgid "Are you sure you want to delete?"
+msgstr "Är du säker?"
+
+#: String 133
+msgid "Logout"
+msgstr "Logga ut"
+
+#: String 134
+msgid "Visit Site"
+msgstr "Besök webbplatsen"
+
+#: String 135
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Här är bokförs konfigurationsvärden för temat. Ersätt med nya värden för temat."
+
+#: String 136
+msgid "Using mobile theme"
+msgstr "Använda mobilt tema"
+
+#: String 137
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: String 138
+msgid "Options"
+msgstr "Val"
+
+#: String 139
+msgid "You can change the look and feel of your website here."
+msgstr "Du kan ändra utseendet och känslan på din webbplats här."
+
+#: String 140
+msgid "Current Theme"
+msgstr "Aktuelt teman"
+
+#: String 141
+msgid "Available Themes"
+msgstr "Tillgänglig teman"
+
+#: String 142
+msgid "Preview"
+msgstr "Exempel"
+
+#: String 143
+msgid "Available Mobile Themes"
+msgstr "Tillgänglig mobilteman"
+
+#: String 144
+msgid "Themes Market"
+msgstr "Teman Marknad"
+
+#: String 145
+msgid "Here you can find a selection of our premium themes."
+msgstr "Här hittar du ett urval av våra premium teman."
+
+#: String 146
+msgid "All themes include support, updates and 1 site license."
+msgstr "Alla teman inkluderar support, uppdateringar och 1 site-licenss."
+
+#: String 147
+msgid "Site Usage Statistics"
+msgstr "Site Statistik över användning"
+
+#: String 148
+msgid "Ads"
+msgstr "Annoncer"
+
+#: String 149
+msgid "Sales"
+msgstr "Försäljnings"
+
+#: String 150
+msgid "Views and Ads statistics"
+msgstr "Besök och annonser statistik"
+
+#: String 151
+msgid "Sales statistics"
+msgstr "Försäljningsstatistik"
+
+#: String 152
+msgid "Available widgets"
+msgstr "Tillgängliga widgets"
+
+#: String 153
+msgid "Create"
+msgstr "Skapa"
+
+#: String 154
+msgid "Where do you want the widget displayed?"
+msgstr "Vart vill du att widgeten visas?"
+
+#: String 155
+msgid "Close"
+msgstr "Stäng"
+
+#: String 156
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Är du säker på att du vill ta bort denna widget? Du kan flytta den till listan med inaktiva widgets."
+
+#: String 157
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: String 158
+msgid "Limited Offer!"
+msgstr "Begränsad erbjudande!"
+
+#: String 159
+msgid "Valid Until"
+msgstr "Gäller till"
+
+#: String 160
+msgid "Buy Now"
+msgstr "Köp nu"
+
+#: String 161
+msgid "More info"
+msgstr "Mer info"
+
+#: String 162
+msgid "Selection of nice extras for your installation."
+msgstr "Valet av extramaterial för din installation."
+
+#: String 163
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably wonÂ´t be displayed in the theme (it is not recommended)."
+msgstr "Ändra ordningen på dina kategorier. Tänk på att mer än 2 nivåer kapslade förmodligen inte kommer att visas i temat (är det inte rekommenderat)."
+
+#: String 164
+msgid "New category"
+msgstr "Ny kategori"
+
+#: String 165
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Är du säker på att du vill ta bort? underkategorierna och listor flyttas till huvud kategori denna kategori."
+
+#: String 166
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably wonÂ´t be displayed in the theme (it is not recommended)."
+msgstr "Ändra ordningen på dina positioner. Tänk på att mer än 2 nivåer kapslade förmodligen inte kommer att visas i temat (är det inte rekommenderat)."
+
+#: String 167
+msgid "New location"
+msgstr "Ny position"
+
+#: String 168
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Är du säker på att du vill ta bort? underkategorierna och listor flyttas till huvud kategori denna kategori."
+
+#: String 169
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: String 170
+msgid "Email Settings"
+msgstr "E-post inställningar"
+
+#: String 171
+msgid "You can send a mass email to all active users."
+msgstr "Du kan skicka e-post till alla aktiva användare."
+
+#: String 172
+msgid "From Email"
+msgstr "Från E-post"
+
+#: String 173
+msgid "Optimize Database"
+msgstr "Optimera Databas"
+
+#: String 174
+msgid "Database space"
+msgstr "Databas utrymme"
+
+#: String 175
+msgid "Space to optimize"
+msgstr "Utrymme för att optimera"
+
+#: String 176
+msgid "Table"
+msgstr "Bord"
+
+#: String 177
+msgid "Rows"
+msgstr "Rader
+#: String 178
+msgid "Size"
+msgstr "Storlek"
+
+#: String 179
+msgid "Save size"
+msgstr "Spara storlek"
+
+#: String 180
+msgid "Cache configuration information"
+msgstr "Cache konfigurations info"
+
+#: String 181
+msgid "Delete all"
+msgstr "Rader alla"
+
+#: String 182
+msgid "Delete expired"
+msgstr "Radera utgångna"
+
+#: String 183
+msgid "Config file"
+msgstr "Konfigurationsfil"
+
+#: String 184
+msgid "System Logs"
+msgstr "System logs"
+
+#: String 185
+msgid "Reading log file"
+msgstr "Läsa loggfil"
+
+#: String 186
+msgid "Log"
+msgstr "Log"
+
+#: String 187
+msgid "Your PHP time limit is"
+msgstr "Din PHP tidsfristen är"
+
+#: String 188
+msgid "sekunder"
+msgstr "Sekunder"
+
+#: String 189
+msgid "Host name"
+msgstr "Värdnamn"
+
+#: String 190
+msgid "User name"
+msgstr "Användarnamn"
+
+#: String 191
+msgid "Database name"
+msgstr "Databasnamn"
+
+#: String 192
+msgid "Database charset"
+msgstr "Databas charset"
+
+#: String 193
+msgid "Table prefix"
+msgstr "Tabell prefix"
+
+#: String 194
+msgid "Migrate"
+msgstr "Migrer"
+
+#: String 195
+msgid "Last time generated"
+msgstr "Senast genererade"
+
+#: String 196
+msgid "Generate"
+msgstr "Generera"
+
+#: String 197
+msgid "Expire time"
+msgstr "Utgångs tid"
+
+#: String 198
+msgid "Update on publish"
+msgstr "Uppdatering om publicering"
+
+#: String 199
+msgid "Save"
+msgstr "Spara"
+
+#: String 200
+msgid "Versions"
+msgstr "Versioner"
+
+#: String 201
+msgid "Open Classifieds release history information."
+msgstr "Öppna Classifieds frigivnings historik."
+
+#: String 202
+msgid "Your installation version is"
+msgstr "Din installationsversionen är"
+
+#: String 203
+msgid "Your Hash Key for this installation is"
+msgstr "Din Hash nyckel för denna installation är"
+
+#: String 204
+msgid "Check for updates"
+msgstr "Sök efter uppdateringar"
+
+#: String 205
+msgid "Version"
+msgstr "Version"
+
+#: String 206
+msgid "Information"
+msgstr "Information"
+
+#: String 207
+msgid "Latest"
+msgstr "Senaste"
+
+#: String 208
+msgid "Current"
+msgstr "Aktuella"
+
+#: String 209
+msgid "Email Configuration"
+msgstr "E-post konfiguration"
+
+#: String 210
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Lista över allmänna konfigurationsvärden. Byt inmatningsfält med nya önskade värden"
+
+#: String 211
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Om du behöver skicka flera e-postmeddelanden med en hög leveranstakt"
+
+#: String 212
+msgid "Notify email"
+msgstr "UMeddela vid E-post"
+
+#: String 213
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "E-post från där vi skickar e-post, som också används för programvaru kommunikation."
+
+#: String 214
+msgid "Email From"
+msgstr "E-post från"
+
+#: String 215
+msgid "Smtp active"
+msgstr "Smtp aktiv"
+
+#: String 216
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 217
+msgid "Smtp host"
+msgstr "Smtp host"
+
+#: String 218
+msgid "Smtp port"
+msgstr "SMTP port"
+
+#: String 219
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 220
+msgid "Smtp user"
+msgstr "SMTP användarnamn"
+
+#: String 221
+msgid "Smtp password"
+msgstr "SMTP lösenord"
+
+#: String 222
+msgid "Advertisement Configuration"
+msgstr "Annonce konfiguration"
+
+#: String 223
+msgid "Number of images"
+msgstr "Antal bilder"
+
+#: String 224
+msgid "Number of images displayed"
+msgstr "Antal bilder som visas"
+
+#: String 225
+msgid "Ad expiration date"
+msgstr "Annons utgångsdatum"
+
+#: String 226
+msgid "Expire days"
+msgstr "Utgångs dage"
+
+#: String 227
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "efter hur många dagar löper ut en annons. 0 för aldrig"
+
+#: String 228
+msgid "Days"
+msgstr "Dage"
+
+#: String 229
+msgid "Address field"
+msgstr "Adressfältet"
+
+#: String 230
+msgid "Displays the field Address in the Ad form."
+msgstr "Visar fältet Adress i annonsformuläret."
+
+#: String 231
+msgid "Google Maps in Ad"
+msgstr "Google Maps i annonce"
+
+#: String 232
+msgid "Displays the google maps in the Ad."
+msgstr "Visar google maps i annoncen."
+
+#: String 233
+msgid "Phone field"
+msgstr "Telefon fält"
+
+#: String 234
+msgid "Displays the field Phone in the Ad form."
+msgstr "Viser feltet telefon i annonce formularen."
+
+#: String 235
+msgid "Website field"
+msgstr "Hemsida fält"
+
+#: String 236
+msgid "Displays the field Website in the Ad form."
+msgstr "Visar fältet hemsida i annonsen formen."
+
+#: String 237
+msgid "Displays location select"
+msgstr "Visar positions väjer"
+
+#: String 238
+msgid "Displays the Select Location in the Ad form."
+msgstr "Visar den valda position i annons formuläret."
+
+#: String 239
+msgid "Price field"
+msgstr "Pris fält"
+
+#: String 240
+msgid "Displays the field Price in the Ad form."
+msgstr "Viser fältet Pris i annons formuläret."
+
+#: String 241
+msgid "Upload file"
+msgstr "Ladda upp fil"
+
+#: String 242
+msgid "Enables Captcha"
+msgstr "Aktivera Captcha"
+
+#: String 243
+msgid "Captcha appears in the form."
+msgstr "Captcha visas i formuläret."
+
+#: String 244
+msgid "Deactivated"
+msgstr "Inaktiverad"
+
+#: String 245
+msgid "Terms of Service"
+msgstr "Användarvillkor"
+
+#: String 246
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 247
+msgid "Disqus Comments"
+msgstr "DISQUS Kommentarer"
+
+#: String 248
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Du måste skriva din Disqus-ID för att aktivera tjänsten."
+
+#: String 249
+msgid "Payments Configuration"
+msgstr "Betalings Konfiguration"
+
+#: String 250
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Lista över betalningskonfigurationsvärden. Byt inmatningsfält med nya önskade värden."
+
+#: String 251
+msgid "Paypal account"
+msgstr "Paypal konto"
+
+#: String 252
+msgid "Paypal mail address"
+msgstr "Paypal e-post adress"
+
+#: String 253
+msgid "The paypal email address where the payments will be sent"
+msgstr "Den paypal e-postadress som betalning kommer att skickas"
+
+#: String 254
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 255
+msgid "Paypal currency"
+msgstr "Paypal valuta"
+
+#: String 256
+msgid "Currency"
+msgstr "Valuta"
+
+#: String 257
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Se till att du använder en valuta som paypal stöd."
+
+#: String 258
+msgid "Featured Ads"
+msgstr "Markerad annons"
+
+#: String 259
+msgid "Featured ads"
+msgstr "Markerad annons"
+
+#: String 260
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Markerad annons kommer att markeras i ett visst antal dagar."
+
+#: String 261
+msgid "Price for featuring the Ad"
+msgstr "Priset för att markera annons"
+
+#: String 262
+msgid "Pricing"
+msgstr "Priser"
+
+#: String 263
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Hur mycket konsumenterna måste betala för att markera en annons"
+
+#: String 264
+msgid "Days Featured"
+msgstr "Dage för markerad"
+
+#: String 265
+msgid "Featured length"
+msgstr "Markerad tid"
+
+#: String 266
+msgid "How many days an ad will be featured after paying."
+msgstr "Hur många dagar en annons kommer att markerads efter betalning."
+
+#: String 267
+msgid "Bring to top Ad"
+msgstr "Flytta till top annons"
+
+#: String 268
+msgid "Brings your Ad to the top of the listing."
+msgstr "Flytta din annons till toppen av listan."
+
+#: String 269
+msgid "To top price"
+msgstr "Pris för top annons"
+
+#: String 270
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Hur mycket annonsören behöver betala för att flytta upp en annons"
+
+#: String 271
+msgid "General Configuration"
+msgstr "Allmän konfiguration"
+
+#: String 272
+msgid "General site settings."
+msgstr "Allmän konfiguration för hemsidan."
+
+#: String 273
+msgid "All configurations"
+msgstr "Alla konfigurationer"
+
+#: String 274
+msgid "Maintenance Mode"
+msgstr "Under uppdateringen"
+
+#: String 275
+msgid "Enables the site to maintenance"
+msgstr "Aktiverar platsen till uppdatering"
+
+#: String 276
+msgid "Site name"
+msgstr "Namn på hemsidan"
+
+#: String 277
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Här kan du skriva in ditt användarnamn som ses av alla!"
+
+#: String 278
+msgid "Site Name"
+msgstr "Namn pÃ hemsidan"
+
+#: String 279
+msgid "Site description"
+msgstr "Webbplats beskrivning"
+
+#: String 280
+msgid "Base URL"
+msgstr "Base URL"
+
+#: String 281
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Är en bas stig på din webbplats (t.ex. http://open-classifieds.com/). Allt annat är byggd baserat på detta fält."
+
+#: String 282
+msgid "Base URL path"
+msgstr "Bas URL sti"
+
+#: String 283
+msgid "Moderation controls"
+msgstr "Moderations kontrol"
+
+#: String 284
+msgid "Global currency"
+msgstr "Global valuta"
+
+#: String 285
+msgid "Global currency is country specific. There are no restrictions, this is only to declare currency for advertisements. Note: This is different from payment currencies. "
+msgstr "Global valuta är landsspecifika. Det finns inga begränsningar, är det bara att deklarera valuta för reklam. OBS: Detta skiljer sig från betalningsvalutor."
+
+#: String 286
+msgid "Country specific currency"
+msgstr "landsspecifika valuta"
+
+#: String 287
+msgid "Advertisements per page"
+msgstr "Annonser per. sida"
+
+#: String 288
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Detta för att kontrollera hur många annonser som visas per sida. Sätt i ett heltal, som ett antal gräns."
+
+#: String 289
+msgid "Number of ads per page"
+msgstr "Antal annonser per sida"
+
+#: String 290
+msgid "Advertisements in RSS"
+msgstr "Annonser i RSS"
+
+#: String 291
+msgid "Number of Ads"
+msgstr "Antallet af annonser"
+
+#: String 292
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Hur många annonser kommer att visas i RSS på din webbplats."
+
+#: String 293
+msgid "Advertisements in Map"
+msgstr "Annonser i Map"
+
+#: String 294
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Hur många annonser kommer att visas på kartan på din webbplats."
+
+#: String 295
+msgid "Number format"
+msgstr "Nummer format"
+
+#: String 296
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Nummer formatet är hur du vill visa tal i samband med reklam. Mer specifikt annonsen priset. Varje land har ett visst sätt att hantera decimaler i."
+
+#: String 297
+msgid "Decimal representation"
+msgstr "Decimal läge"
+
+#: String 298
+msgid "Date format"
+msgstr "Datoformat"
+
+#: String 299
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Varje annons har ett releasedatum. Genom att välja format, kan du ändra hur den visas på din hemsida."
+
+#: String 300
+msgid "Analytics"
+msgstr "Analytisk"
+
+#: String 301
+msgid "Allowed image formats"
+msgstr "Tillåtna bildformat"
+
+#: String 302
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Ställ upp detta för att minska antal uliga bildformat som kan laddas upp till din server."
+
+#: String 303
+msgid "Max image size"
+msgstr "Maks. bildstorlek"
+
+#: String 304
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Kontrollera storleken på bilder som laddas upp. Ange ett heltalsvärde att ställa maximal bildstorlek på mega bit (Mb)."
+
+#: String 305
+msgid "Image size in mega bites(Mb)"
+msgstr "Bildstorlek i mega bit (Mb)"
+
+#: String 306
+msgid "Image height"
+msgstr "Bildstorlek"
+
+#: String 307
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Varje Bilden storleksändras när laddas upp. Detta är höjden av stor bild. Obs: Du kan lämna fältet tomt för att ställa in AUTO höjd ändra storlek."
+
+#: String 308
+msgid "Image height in pixels(px)"
+msgstr "Bildstorlek i pixel (px)"
+
+#: String 309
+msgid "Image width"
+msgstr "Bildbredd"
+
+#: String 310
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Varje Bilden storleksändras när laddas upp. Detta är bredden på stora bilden."
+
+#: String 311
+msgid "Image width in pixels(px)"
+msgstr "Bildbredd i pixels (px)"
+
+#: String 312
+msgid "Thumb height"
+msgstr "Thumb höjd"
+
+#: String 313
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Thumb är en liten bild som skalas för att passa in i vissa delar. Detta är höjden av bilden."
+
+#: String 314
+msgid "Thumb height in pixels(px)"
+msgstr "Thumb höjd i pixel (px)"
+
+#: String 315
+msgid "Thumb width"
+msgstr "Thumb bredd"
+
+#: String 316
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Thumb är en liten bild skalas för att passa vissa poster. Detta är bredden av denna bild."
+
+#: String 317
+msgid "Thumb width in pixels(px)"
+msgstr "Thumb bredde i pixels (px)"
+
+#: String 318
+msgid "Image quality"
+msgstr "Bildkvalitett"
+
+#: String 319
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Välj kvaliteten av de lagrade bilderna (1 till 100% av den ursprungliga)."
+
+#: String 320
+msgid "Image Quality"
+msgstr "Bildkvalitett"
+
+#: String 321
+msgid "Here you can modify any text you find in your web."
+msgstr "Här kan du ändra all text som du hittar i din webb."
+
+#: String 322
+msgid "Original Translation"
+msgstr "Originalöversättning"
+
+#: String 323
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Kopiera alla?, Var medveten detta kommer att ersätta alla dina texter."
+
+#: String 324
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Översätt allt?, Var medveten detta kommer att ersätta alla dina texter."
+
+#: String 325
+msgid "Translation"
+msgstr "översättning"
+
+#: String 326
+msgid "Translations files available in the system."
+msgstr "Översättning filer tillgängliga i systemet."
+
+#: String 327
+msgid "Scan"
+msgstr "Scan"
+
+#: String 328
+msgid "New translation"
+msgstr "Ny Översättning"
+
+#: String 329
+msgid "Language"
+msgstr "Språk"
+
+#: String 330
+msgid "Active"
+msgstr "Aktiv"
+
+#: String 331
+msgid "Spam Sort"
+msgstr "Skräpsortering"
+
+#: String 332
+msgid "Unavailable Sort"
+msgstr "Inte tillgänglig typ"
+
+#: String 333
+msgid " Unavailable"
+msgstr "Inte tillgänglig"
+
+#: String 334
+msgid "General configurations are set. Replace input fields with new desired values."
+msgstr "Allmänna inställningar lagras. Ersätt med nya önskade värden."
+
+#: String 335
+msgid "Deactivate Featured"
+msgstr "Inaktivera markerad"
+
+#: String 336
+msgid "Thanks for using Open Classifieds."
+msgstr "Tack för att du använder Open Classifieds."
+
+#: String 337
+msgid "Latest News"
+msgstr "senaste nytt"
+
+#: String 338
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: String 339
+msgid "User Profile"
+msgstr "Användarprofil"
+
+#: String 340
+msgid "Created"
+msgstr "Skapad"
+
+#: String 341
+msgid "Last Login"
+msgstr "Senaste inloggning"
+
+#: String 342
+msgid " advertisements"
+msgstr "Annonser"
+
+#: String 343
+msgid "Not yet published"
+msgstr "Ännu inte offentliggjord"
+
+#: String 344
+msgid "Remember password"
+msgstr "Kom ihåg lösenord"
+
+#: String 345
+msgid "Forgot password?"
+msgstr "Glömt lösenordet?"
+
+#: String 346
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+#: String 347
+msgid "Type your password twice"
+msgstr "Ange ditt lösenord två gånger"
+
+#: String 348
+msgid "Terms of service"
+msgstr "Villkor för webbplatsen"
+
+#: String 349
+msgid "User account will be created"
+msgstr "Användarkonto kommer att skapas"
+
+#: String 350
+msgid "Advanced Search"
+msgstr "Avancerad sökning"
+
+#: String 351
+msgid "Advertisement Title"
+msgstr "Annonstitel"
+
+#: String 352
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#: String 353
+msgid "Download"
+msgstr "Nedladdning"
+
+#: String 354
+msgid "Header toolbar gets fixed in the top"
+msgstr "Rubrik verktygsfält blir fast i toppen"
+
+#: String 355
+msgid "Yes"
+msgstr "Ja"
+
+#: String 356
+msgid "No"
+msgstr "Nej"
+
+#: String 357
+msgid "Display breadcrumb"
+msgstr "Vis breadcrumb"
+
+#: String 358
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL till din logotyp. Rekommenderat storleks 250px x 40px. Lämna tomt för inget."
+
+#: String 359
+msgid "Short description that appears after the site name."
+msgstr "Kort beskrivning som visas efter namnet på webbplatsen."
+
+#: String 360
+msgid "Numbers of ads to display in home slider"
+msgstr "Antalet annonser som ska visas i främre site bildspel"
+
+#: String 361
+msgid "Where you want the sidebar to appear"
+msgstr "Vart vill du att sidomenyn ska visas"
+
+#: String 362
+msgid "Right side"
+msgstr "Höger sida"
+
+#: String 363
+msgid "Left side"
+msgstr "vänster sida"
+
+#: String 364
+msgid "Menu"
+msgstr "Meny"
+
+#: String 365
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: String 366
+msgid "Advanced search"
+msgstr "Avancerad sökning"
+
+#: String 367
+msgid "Desktop Version"
+msgstr "Desktop version"
+
+#: String 368
+msgid "Public Profile"
+msgstr "Allmän profil"
+
+#: String 369
+msgid "advertisements"
+msgstr "Annonsering"
+
+#: String 370
+msgid "Change the main color scheme and style of the theme"
+msgstr "Ändra de primära färgerna och stilen på temat"
+
+#: String 371
+msgid "Change the header color scheme and style of the theme"
+msgstr "Ändra header färgsättning och stil av temat"
+
+#: String 372
+msgid "Change the theme of List Elements"
+msgstr "Ändra utseendet på listobjekt"
+
+#: String 373
+msgid "Change the theme of Featured Elements"
+msgstr "Ändra utseendet på markerad objekt"
+
+#: String 374
+msgid "Installation"
+msgstr "Installation"
+
+#: String 375
+msgid "Requirements"
+msgstr "Krav"
+
+#: String 376
+msgid "Congratulations"
+msgstr "Grattis"
+
+#: String 377
+msgid "Installation done"
+msgstr "Installationen är klar"
+
+#: String 378
+msgid "Please now erase the folder"
+msgstr "Ta bort mappen"
+
+#: String 379
+msgid "Go to Your Website"
+msgstr "Gå till din webbplats"
+
+#: String 380
+msgid "Make a donation"
+msgstr "Gör en donation"
+
+#: String 381
+msgid "We really appreciate it"
+msgstr "Vi uppskattar verkligen det"
+
+#: String 382
+msgid "Welcome to"
+msgstr "Välkommen till"
+
+#: String 383
+msgid "installation"
+msgstr "installation"
+
+#: String 384
+msgid "Welcome to the super easy and fast installation"
+msgstr "Välkommen till super lätt och snabb installation"
+
+#: String 385
+msgid "If you need any help please check our professional services"
+msgstr "Om du behöver hjälp kan du kolla in våra professionella tjänster"
+
+#: String 386
+msgid "Site Configuration"
+msgstr "Site Konfiguration"
+
+#: String 387
+msgid "Site Language"
+msgstr "Sajtens språk"
+
+#: String 388
+msgid "Site URL"
+msgstr "Web URL"
+
+#: String 389
+msgid "Time Zone"
+msgstr "Tidszone"
+
+#: String 390
+msgid "New Install"
+msgstr "Ny Installation"
+
+#: String 391
+msgid "Upgrade System"
+msgstr "uppgradera systemet"
+
+#: String 392
+msgid "Administrator email"
+msgstr "Administratör email"
+
+#: String 393
+msgid "Admin Password"
+msgstr "Admin lösenord"
+
+#: String 394
+msgid "Sample data"
+msgstr "Exempel data"
+
+#: String 395
+msgid "Creates few sample categories to start with"
+msgstr "Skapa några testkategorier att börja med"
+
+#: String 396
+msgid "Hash Key"
+msgstr "Hash nyckel"
+
+#: String 397
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Du behöver Hash nyckeln för att installera. Du hittar detta värde om du har förlorat det"
+
+#: String 398
+msgid "Database Configuration"
+msgstr "Databas konfiguration"
+
+#: String 399
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Tillåter flera installationer i en databas om du ger varje installation ett unikt prefix"
+
+#: String 400
+msgid "Only numbers, letters, and underscores"
+msgstr "Endast siffror, bokstäver och understreck"
+
+#: String 401
+msgid "Install"
+msgstr "Installera"
+
+#: String 402
+msgid "Ocacu classifieds community registration"
+msgstr "Ocacu classifieds gemenskap registrering"
+
+#: String 403
+msgid "Terms"
+msgstr "Villkor"
+
+#: String 404
+msgid "Cannot connect to server"
+msgstr "Kan inte ansluta till servern"
+
+#: String 405
+msgid "No database name was given"
+msgstr "Ingen databas namn gavs"
+
+#: String 406
+msgid "Available databases"
+msgstr "Tillgängliga databaser"
+
+#: String 407
+msgid "Invalid query"
+msgstr "Ogiltig begäran"
+
+#: String 408
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 409
+msgid "Application Execution"
+msgstr "program utförande"
+
+#: String 410
+msgid "Hello, world"
+msgstr "Hej, värld"
+
+#: String 411
+msgid "Environment"
+msgstr "Miljö¸"
+
+#: String 412
+msgid "Included files"
+msgstr "Inkluderade filer"
+
+#: String 413
+msgid "Loaded extensions"
+msgstr "Laddad förlängningar"
+
+#: String 414
+msgid "publish new"
+msgstr "Skapa ny"
+
+#: String 415
+msgid "search"
+msgstr "sök"
+
+#: String 416
+msgid "contact"
+msgstr "kontakt"
+
+#: String 417
+msgid "map"
+msgstr "karta"
+
+#: String 418
+msgid "maintenance"
+msgstr "upprätthållande"
+
+#: String 419
+msgid "views"
+msgstr "visningar"
+
+#: String 420
+msgid "ads"
+msgstr "annonser"
+
+#: String 421
+msgid "users"
+msgstr "användare"
+
+#: String 422
+msgid "# items to display"
+msgstr "# Ämnen som ska visas"
+
+#: String 423
+msgid "RSS"
+msgstr "RSS"
+
+#: String 424
+msgid "RSS reader with cache"
+msgstr "RSS-läsare med cache"
+
+#: String 425
+msgid "Number items to display"
+msgstr "Antal objekt att visa"
+
+#: String 426
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Hur ofta uppdaterar vi RSS, i sekunder"
+
+#: String 427
+msgid "RSS url address"
+msgstr "RSS url adress"
+
+#: String 428
+msgid "RSS title displayed"
+msgstr "RSS titel som visas"
+
+#: String 429
+msgid "Share"
+msgstr "Dela"
+
+#: String 430
+msgid "Share on social networks."
+msgstr "Dela på sociala nätverk"
+
+#: String 431
+msgid "Title displayed"
+msgstr "Titeln visas"
+
+#: String 432
+msgid "Add latest comments"
+msgstr "Senaste kommentarer"
+
+#: String 433
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: String 434
+msgid "Number of comments to display"
+msgstr "Antalet kommentarer att visa"
+
+#: String 435
+msgid "Google Maps with ads"
+msgstr "Google Maps med annonser"
+
+#: String 436
+msgid "Map title displayed"
+msgstr "Kartan titel visas"
+
+#: String 437
+msgid "Map height in pixels"
+msgstr "Kort höjd i pixlar"
+
+#: String 438
+msgid "Zoom in the map"
+msgstr "Zooma in på kartan"
+
+#: String 439
+msgid "Display categories"
+msgstr "Vissa kategorier"
+
+#: String 440
+msgid "Categories title displayed"
+msgstr "Kategori Titel visas"
+
+#: String 441
+msgid "Display Locations"
+msgstr "Visa lokalisering"
+
+#: String 442
+msgid "Locations title displayed"
+msgstr "Lokaliserings namn som visas"
+
+#: String 443
+msgid "Text"
+msgstr "Text"
+
+#: String 444
+msgid "HTML textarea"
+msgstr "HTML textområde"
+
+#: String 445
+msgid "Text title displayed"
+msgstr "Text titel visas"
+
+#: String 446
+msgid "HTML/text content here"
+msgstr "HTML/textinnehåll här"
+
+#: String 447
+msgid "Ads reader"
+msgstr "annons läser"
+
+#: String 448
+msgid "Type ads to display"
+msgstr "Typ av annonser ska visas"
+
+#: String 449
+msgid "Popular Ads last month"
+msgstr "Populära annonser förra månaden"
+
+#: String 450
+msgid "Number of ads to display"
+msgstr "Antalet annonser som ska visas"
+
+#: String 451
+msgid "Ads title displayed"
+msgstr "Annonser titel visas"
+
+#: String 452
+msgid "Pages"
+msgstr "Sidor"
+
+#: String 453
+msgid "Display CMS pages"
+msgstr "Vis CMS sidor
+#: String 454
+msgid "Page title displayed"
+msgstr "Sidtitel visas"
+
+#: String 455
+msgid "Display site stats"
+msgstr "Visa sidstatistik"
+
+#: String 456
+msgid "Submit"
+msgstr "Visa sidstatistik"
+
+#: String 457
+msgid "Other"
+msgstr "Annat"
+
+#: String 458
+msgid "Role"
+msgstr "Roll"
+
+#: String 459
+msgid "Last modified"
+msgstr "Senast ändrad"
+
+#: String 460
+msgid "Last login"
+msgstr "Senaste inloggning"
+
+#: String 461
+msgid "User"
+msgstr "Användare"
+
+#: String 462
+msgid "Type"
+msgstr "Typ"
+
+#: String 463
+msgid "SEO title"
+msgstr "SEO titel"
+
+#: String 464
+msgid "Ip address"
+msgstr "IP-adress"
+
+#: String 465
+msgid "Has images"
+msgstr "Har bild"
+
+#: String 466
+msgid "Parent"
+msgstr "Kategori"
+
+#: String 467
+msgid "Parent deep"
+msgstr "Kategori djub"
+
+#: String 468
+msgid "Seoname"
+msgstr "Seo-namn"
+
+#: String 469
+msgid "Id"
+msgstr "Id"
+
+#: String 470
+msgid "Order"
+msgstr "Bok"
+
+#: String 471
+msgid "Info"
+msgstr "Info"
+
+#: String 472
+msgid "Warning"
+msgstr "Varning"
+
+#: String 473
+msgid "Error"
+msgstr "Fel"
+
+#: String 474
+msgid "Success"
+msgstr "Framgång"
+
+#: String 475
+msgid "New profile has been created. Welcome "
+msgstr "Ny profil har skapats. Välkommen"
+
+#: String 476
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Något gick fel när du laddar upp bilder. kontroller format"
+
+#: String 477
+msgid "Something went wrong with uploading pictures"
+msgstr "Något gick fel när du laddar upp bilder"
+
+#: String 478
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Annons är skapat och måste aktiveras. Kontrollera din e-post!"
+
+#: String 479
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Annonsen tas emot, väntar validering av Administrator. Tack för ditt tålamod!"
+
+#: String 480
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Annonsen publiceras. Grattis!"
+
+#: String 481
+msgid "Captcha is not correct"
+msgstr "Koden är fel"
+
+#: String 482
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Webbplatsen håller på att uppdateras, välkommen tillbaka. Tack"
+
+#: String 483
+msgid "Latest published"
+msgstr "Senast publicerad"
+
+#: String 484
+msgid "Email Configuration updated"
+msgstr "E-post konfiguration uppdatering"
+
+#: String 485
+msgid "General Configuration updated"
+msgstr "Allmän konfiguration uppdatering"
+
+#: String 486
+msgid "Payments"
+msgstr "Betalninger"
+
+#: String 487
+msgid "Widget parameter missing"
+msgstr "Widget parametern saknas"
+
+#: String 488
+msgid "Saved"
+msgstr "Sparas"
+
+#: String 489
+msgid "Password is changed"
+msgstr "Lösenordet ändras"
+
+#: String 490
+msgid "Nothing is provided"
+msgstr "Ingen specificerad"
+
+#: String 491
+msgid "Passwords do not match"
+msgstr "Lösenorden matchar inte"
+
+#: String 492
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Nytt lösenord är ogiltig eller inte matchar! Försök igen."
+
+#: String 493
+msgid "You have successfuly changed your data"
+msgstr "Du har ändrat dina uppgifter"
+
+#: String 494
+msgid "My Advertisement page "
+msgstr "Min Annons sida"
+
+#: String 495
+msgid "This is not your advertisement."
+msgstr "Det här är inte din annons."
+
+#: String 496
+msgid "Advertisement is deactivated"
+msgstr "Annonsen är inaktiverad"
+
+#: String 497
+msgid "Advertisement is active and published"
+msgstr "Annonsen är aktiv och publicerat"
+
+#: String 498
+msgid "Edit advertisement"
+msgstr "Redigera annons"
+
+#: String 499
+msgid "Advertisement is updated!"
+msgstr "Annonsen är uppdaterad!"
+
+#: String 500
+msgid "Advertisement is updated"
+msgstr "Annonsen är uppdaterad"
+
+#: String 501
+msgid "You dont have permission to access this link"
+msgstr "Du har inte behörighet tillgång till den här länken"
+
+#: String 502
+msgid "List"
+msgstr "Lista"
+
+#: String 503
+msgid "Edit Translation"
+msgstr "Redigera översättning"
+
+#: String 504
+msgid "Language saved"
+msgstr "Språk sparas"
+
+#: String 505
+msgid "Error on mail delivery, not sent"
+msgstr "Fel i e-post leverans, skickas inte"
+
+#: String 506
+msgid "Email sent to all the users"
+msgstr "E-post skickas till alla användare"
+
+#: String 507
+msgid "Mail not sent"
+msgstr "E-post skickades inte"
+
+#: String 508
+msgid "Theme configuration updated"
+msgstr "Tema konfiguration uppdaterad"
+
+#: String 509
+msgid "Appearance configuration updated"
+msgstr "Utseende konfiguration uppdaterad"
+
+#: String 510
+msgid "Mobile Theme updated"
+msgstr "Mobiltema uppdaterad"
+
+#: String 511
+msgid "Optimize DB"
+msgstr "Optimera DB"
+
+#: String 512
+msgid "Database Optimized"
+msgstr "Databas uppdaterad"
+
+#: String 513
+msgid "All cache deleted"
+msgstr "Alla cache slettet"
+
+#: String 514
+msgid "Deleted expired cache"
+msgstr "Radera utgångna cache"
+
+#: String 515
+msgid "You are not using latest version of OC, please update."
+msgstr "Du använder inte senaste versionen av OC, din profil, uppdatera nu."
+
+#: String 516
+msgid "System logs"
+msgstr "System logg filer"
+
+#: String 517
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap konfiguration opdateras"
+
+#: String 518
+msgid "Open Classifieds migration"
+msgstr "Öppet Annonse flyttning"
+
+#: String 519
+msgid "Database cleaned"
+msgstr "Databas rengöras"
+
+#: String 520
+msgid "Review database connection parameters"
+msgstr "Bläddra i anslutningsparametrar för databas"
+
+#: String 521
+msgid "Wrong email or password"
+msgstr "Felaktig e-postadress eller lösenord"
+
+#: String 522
+msgid "Email to recover password sent"
+msgstr "E-post lösenord förändring skickas"
+
+#: String 523
+msgid "User not in database"
+msgstr "Användaren finns inte i databasen"
+
+#: String 524
+msgid "Email required"
+msgstr "E-post krävs"
+
+#: String 525
+msgid "User already exists"
+msgstr "Användaren finns redan"
+
+#: String 526
+msgid "Welcome!"
+msgstr "Välkommen!"
+
+#: String 527
+msgid "Register new user"
+msgstr "Registrera ny användare"
+
+#: String 528
+msgid "You do not have any published Advertisement"
+msgstr "Du har inga publicerade annonser"
+
+#: String 529
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Du har inga annonser som väntar på publicering"
+
+#: String 530
+msgid "Warning, something went wrong while deleting"
+msgstr "Varning, något gick fel vid radering"
+
+#: String 531
+msgid "Advertisement is deleted"
+msgstr "Annoncen raderas"
+
+#: String 532
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Varning. Annons är redan markeras som skräppost"
+
+#: String 533
+msgid "Advertisement is marked as spam"
+msgstr "Annons är markeras som skräppost"
+
+#: String 534
+msgid "Advertisement is featured"
+msgstr "Annonsen är markerad"
+
+#: String 535
+msgid "Location deleted"
+msgstr "Positionen raderas"
+
+#: String 536
+msgid "Location not deleted"
+msgstr "Position raderas inte"
+
+#: String 537
+msgid "Category deleted"
+msgstr "Kategori raderas"
+
+#: String 538
+msgid "Category not deleted"
+msgstr "Kategori raderas inte"
+
+#: String 539
+msgid "Your message has been sent"
+msgstr "Ditt meddelande har skickats"
+
+#: String 540
+msgid "Message not sent"
+msgstr "Meddelandet har inte skickats"
+
+#: String 541
+msgid "Check the form for errors"
+msgstr "Kontrollera formuläret för fel"
+
+#: String 542
+msgid "You made some mistake"
+msgstr "Du har gjort några misstag"
+
+#: String 543
+msgid "Advertisement to top"
+msgstr "Flytta annons till toppen"
+
+#: String 544
+msgid "Advertisement to featured"
+msgstr "Markera Annons"
+
+#: String 545
+msgid " category"
+msgstr "kategori"
+
+#: String 546
+msgid "Order could not be loaded"
+msgstr "Ordern kunde inte laddas"
+
+#: String 547
+msgid "Page "
+msgstr "Sida"
+
+#: String 548
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Annonsen har aktiverats! Tack!"
+
+#: String 549
+msgid "We did not find any advertisements for your search."
+msgstr "Vi kunde inte hitta några annonser."
+
+#: String 550
+msgid "No sitemap generated"
+msgstr "Ingen sajt skapad"
+
+#: String 551
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Du är i underhållsläge, bara du kan se på webbplatsen"
+
+#: String 552
+msgid "Item created"
+msgstr "Ämne skapad"
+
+#: String 553
+msgid "Check form for errors"
+msgstr "Kontrollera formuläret för fel"
+
+#: String 554
+msgid "Item updated"
+msgstr "Ämne uppdateras"
+
+#: String 555
+msgid "Access not allowed"
+msgstr "Åtkomst tillåts inte"
+
+#: String 556
+msgid "Some errors in the form"
+msgstr "Formuläret är inte rätt ifyllda"
+
