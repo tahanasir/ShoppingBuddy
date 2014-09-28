@@ -12,4 +12,4 @@ Sept 19-21 @ University of Waterloo
 
 Made with an Open Source HTML5 Script
 
-PHP, MySQL, HTML5, CSS3, Firebase, Twitter API
+-PHP, MySQL, HTML5, CSS3, Firebase, Twitter API
