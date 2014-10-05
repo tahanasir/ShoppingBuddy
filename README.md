@@ -16,4 +16,4 @@ PHP, MySQL, HTML5, CSS3, Firebase, Twitter API
 
 http://challengepost.com/software/shopping-buddy
 
-http://hackthenorth.stanleychin.com/4/
+http://theshoppingbuddies.com
